@@ -2,7 +2,7 @@
     "name": "tokyo-night",
     "displayName": "Tokyo Night",
     "description": "A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "publisher": "enkia",
     "license": "MIT",
     "keywords": [
@@ -12,15 +12,15 @@
         "tokyo",
         "clean"
     ],
-	"icon": "icon.png",
-	"homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
-	"repository": {
-		"url": "https://github.com/enkia/tokyo-night-vscode-theme",
-		"type": "git"
-	},
-	"bugs": {
-		"url": "https://github.com/enkia/tokyo-night-vscode-theme/issues"
-	},
+    "icon": "icon.png",
+    "homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
+    "repository": {
+        "url": "https://github.com/enkia/tokyo-night-vscode-theme",
+        "type": "git"
+    },
+    "bugs": {
+        "url": "https://github.com/enkia/tokyo-night-vscode-theme/issues"
+    },
     "galleryBanner": {
         "color": "#1f2335",
         "theme": "dark"
@@ -46,8 +46,8 @@
             }
         ]
     },
-	"scripts": {
-		"package": "vsce package",
-		"publish": "vsce publish"
-	}
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    }
 }
