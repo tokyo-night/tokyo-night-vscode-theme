@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+desktop.ini
+.DS_Store?
+.com.apple.timemachine.supported
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode
