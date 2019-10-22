@@ -5,10 +5,10 @@ A clean, dark Visual Studio Code theme that celebrates the lights of Downtown [T
 
 ## Screenshots
 Tokyo Night
-![Screenshot - Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme/blob/master/static/ss_tokyo_night.png)
+![Screenshot - Tokyo Night](https://raw.githubusercontent.com/enkia/tokyo-night-vscode-theme/master/static/ss_tokyo_night.png)
 
 Tokyo Night Storm
-![Screenshot - Tokyo Night Storm](https://github.com/enkia/tokyo-night-vscode-theme/blob/master/static/ss_tokyo_night_storm.png)
+![Screenshot - Tokyo Night Storm](https://raw.githubusercontent.com/enkia/tokyo-night-vscode-theme/master/static/ss_tokyo_night_storm.png)
 
 ## Disabling Italics
 Paste this into your [settings.json](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations) to disable italics.
