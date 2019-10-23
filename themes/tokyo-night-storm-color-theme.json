@@ -46,6 +46,14 @@
         "dropdown.background": "#1b1e2e",
         "dropdown.listBackground": "#1b1e2e",
 
+        "activityBar.background": "#1f2335",
+        "activityBar.foreground": "#7982a9",
+        "activityBar.inactiveForeground": "#3b4261",
+        "activityBar.border": "#1f2335",
+        "activityBar.dropBackground": "#282e44",
+        "activityBarBadge.background": "#3d59a1",
+        "activityBarBadge.foreground": "#fff",
+
         "tree.indentGuidesStroke": "#2e344f",
         "sideBar.foreground": "#7982a9",
         "sideBar.background": "#1f2335",
@@ -87,8 +95,8 @@
         "editor.foreground": "#acb0d0",
         "editorLink.activeForeground": "#acb0d0",
 
-        "editor.selectionBackground": "#6f7bb625",
-        "editor.inactiveSelectionBackground": "#6f7bb622",
+        "editor.selectionBackground": "#6f7bb622",
+        "editor.inactiveSelectionBackground": "#6f7bb615",
 
         "editor.findMatchBackground": "#3d59a166",
         "editor.findMatchBorder": "#ffdb69aa",
@@ -207,14 +215,6 @@
         "statusBarItem.hoverBackground": "#282e44",
         "statusBarItem.prominentBackground": "#1b1e2e",
         "statusBarItem.prominentHoverBackground": "#282e44",
-
-        "activityBar.background": "#1f2335",
-        "activityBar.foreground": "#7982a9",
-        "activityBar.inactiveForeground": "#3b4261",
-        "activityBar.border": "#1f2335",
-        "activityBar.dropBackground": "#282e44",
-        "activityBarBadge.background": "#3d59a1",
-        "activityBarBadge.foreground": "#fff",
 
         "titleBar.activeForeground": "#7982a9",
         "titleBar.inactiveForeground": "#7982a9",
