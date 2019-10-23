@@ -436,7 +436,7 @@
             "scope": [
                 "keyword.operator",
                 "keyword.control.as",
-                "keyword.other.new",
+                "keyword.other",
                 "keyword.operator.bitwise.shift",
                 "punctuation",
                 "punctuation.definition.string",
@@ -462,7 +462,8 @@
                 "keyword.control.import",
                 "keyword.control.export",
                 "keyword.control.from",
-                "keyword.control.default"
+                "keyword.control.default",
+                "meta.import keyword.other"
             ],
             "settings": {
                 "foreground":  "#7dcfff"
@@ -534,13 +535,14 @@
             }
         },
         {
-            "name": "Globals, PHP Constants",
+            "name": "Globals, PHP Constants, etc",
             "scope": [
                 "constant.other.php",
                 "variable.other.global.safer",
                 "variable.other.global.safer punctuation.definition.variable",
                 "variable.other.global",
-                "variable.other.global punctuation.definition.variable"
+                "variable.other.global punctuation.definition.variable",
+                "constant.other.haskell"
             ],
             "settings": {
                 "foreground": "#e0af68"
@@ -702,7 +704,9 @@
                 "support.variable.dom",
                 "support.constant.math",
                 "support.type.object.module",
-                "support.constant.json"
+                "support.constant.json",
+                "entity.name.namespace",
+                "meta.import.qualifier"
             ],
             "settings": {
                 "foreground": "#2ac3de"
@@ -1332,6 +1336,15 @@
             "scope": "entity.tag.apacheconf",
             "settings": {
                 "foreground": "#f7768e"
+            }
+        },
+        {
+            "name": "Preprocessor",
+            "scope": [
+                "meta.preprocessor"
+            ],
+            "settings": {
+                "foreground": "#73daca"
             }
         },
         {
