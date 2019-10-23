@@ -54,7 +54,9 @@
         "sideBarSectionHeader.background": "#1f2335",
         "sideBarSectionHeader.foreground": "#acb0d0",
         "sideBarSectionHeader.border": "#1b1e2e",
+        "sideBar.dropBackground": "#292e42",
 
+        "list.dropBackground": "#292e42",
         "list.activeSelectionBackground": "#2c324a",
         "list.activeSelectionForeground": "#acb0d0",
         "list.inactiveSelectionBackground": "#292e42",

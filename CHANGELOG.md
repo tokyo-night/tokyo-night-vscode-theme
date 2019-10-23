@@ -1,5 +1,10 @@
 # Release Notes
 
+## 0.3.1
+`2019-10-23`
+- Add sidebar drop background
+
+
 ## 0.3.0
 `2019-10-22`
 - Add Haskell Support
