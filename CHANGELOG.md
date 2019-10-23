@@ -1,15 +1,20 @@
 # Release Notes
 
+## 0.3.2
+`2019-10-23`
+- Update editor selection background
+- Update scrollbar background
+- Update activity bar inactive icon color
+
 ## 0.3.1
 `2019-10-23`
 - Add sidebar drop background
-
 
 ## 0.3.0
 `2019-10-22`
 - Add Haskell Support
 
-# 0.2.0
+## 0.2.0
 `2019-10-22`
 - Update README
 
