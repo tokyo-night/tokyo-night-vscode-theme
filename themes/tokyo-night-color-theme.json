@@ -86,9 +86,9 @@
         "pickerGroup.foreground": "#babfe0",
         "pickerGroup.border": "#101014",
 
-        "scrollbarSlider.background": "#afbeee15",
-        "scrollbarSlider.hoverBackground": "#afbeee10",
-        "scrollbarSlider.activeBackground": "#afbeee22",
+        "scrollbarSlider.background": "#868bc415",
+        "scrollbarSlider.hoverBackground": "#868bc410",
+        "scrollbarSlider.activeBackground": "#868bc422",
 
         "selection.background": "#515c7e33",
         "editor.background": "#1a1b26",
