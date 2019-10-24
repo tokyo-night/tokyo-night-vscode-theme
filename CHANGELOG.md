@@ -1,5 +1,10 @@
 # Release Notes
 
+## 0.3.3
+`2019-10-24`
+- Add image preview border
+- Update panel foreground color
+
 ## 0.3.2
 `2019-10-23`
 - Update editor selection background
