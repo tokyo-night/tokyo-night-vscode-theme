@@ -5,7 +5,7 @@
     "type": "dark",
     "semanticClass": "tokyo-night-storm",
     "colors": {
-        "foreground": "#c0caf5",
+        "foreground": "#7982a9",
         "focusBorder": "#545c7e33",
         "errorForeground": "#5a607d",
         "widget.shadow": "#ffffff00",
