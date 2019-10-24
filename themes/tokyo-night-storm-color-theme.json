@@ -13,6 +13,7 @@
         "badge.background": "#7e83b233",
         "badge.foreground": "#acb0d0",
         "icon.foreground": "#7982a9",
+        "imagePreview.border": "#9cacff33",
         "settings.headerForeground": "#6183bb",
 
         "extensionButton.prominentBackground": "#3d59a1DD",

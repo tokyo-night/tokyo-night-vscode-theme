@@ -13,6 +13,7 @@
         "badge.background": "#7e83b230",
         "badge.foreground": "#acb0d0",
         "icon.foreground": "#787c99",
+        "imagePreview.border": "#9cacff22",
         "settings.headerForeground": "#6183bb",
 
         "extensionButton.prominentBackground": "#3d59a1DD",
@@ -341,7 +342,7 @@
                 "punctuation.definition.constant",
                 "constant.language",
                 "constant.numeric",
-                "support.constant",
+                "support.constant"
                 // "constant.language.null",
                 // "constant.language.undefined",
                 // "constant.language.go",
