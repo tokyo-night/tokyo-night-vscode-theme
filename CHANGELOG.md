@@ -1,5 +1,10 @@
 # Release Notes
 
+## 0.3.4
+`2019-10-27`
+- Better non-eyegouging markdown support
+- Update ignored file color
+
 ## 0.3.3
 `2019-10-24`
 - Add image preview border

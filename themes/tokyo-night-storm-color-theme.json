@@ -442,6 +442,7 @@
                 "keyword.other",
                 "keyword.operator.bitwise.shift",
                 "punctuation",
+                "punctuation.definition.constant.markdown",
                 "punctuation.definition.string",
                 "punctuation.support.type.property-name",
                 "text.html.vue-html meta.tag",
@@ -1174,8 +1175,33 @@
             }
         },
         {
-            "name": "Markdown - Heading",
-            "scope": "markup.heading entity.name",
+            "name":  "Markdown - Heading 1",
+            "scope": [
+                "heading.1.markdown entity.name",
+                "heading.1.markdown punctuation.definition.heading.markdown",
+            ],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#89ddff"
+            }
+        },
+        {
+            "name":  "Markdown - Heading 2",
+            "scope": [
+                "heading.2.markdown entity.name",
+                "heading.2.markdown punctuation.definition.heading.markdown",
+            ],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#61bdf2"
+            }
+        },
+        {
+            "name":  "Markdown - Heading 3",
+            "scope": [
+                "heading.3.markdown entity.name",
+                "heading.3.markdown punctuation.definition.heading.markdown",
+            ],
             "settings": {
                 "fontStyle": "bold",
                 "foreground": "#7aa2f7"
@@ -1183,26 +1209,43 @@
         },
         {
             "name": "Markdown - Heading 4",
-            "scope": "heading.4.markdown entity.name",
+            "scope": [
+                "heading.4.markdown entity.name",
+                "heading.4.markdown punctuation.definition.heading.markdown",
+            ],
             "settings": {
-                "fontStyle": "",
-                "foreground": "#7aa2f7"
+                "fontStyle": "bold",
+                "foreground": "#6d91de"
             }
         },
         {
-            "name": "Markdown - Heading punctuation",
+            "name":  "Markdown - Heading 5",
             "scope": [
-                "markdown.heading",
-                "markup.heading | markup.heading entity.name",
-                "markup.heading.markdown punctuation.definition.heading.markdown"
+                "heading.5.markdown entity.name",
+                "heading.5.markdown punctuation.definition.heading.markdown",
             ],
             "settings": {
-                "foreground": "#7aa2f7"
+                "fontStyle": "bold",
+                "foreground": "#9aa5ce"
+            }
+        },
+        {
+            "name":  "Markdown - Heading 6",
+            "scope": [
+                "heading.6.markdown entity.name",
+                "heading.6.markdown punctuation.definition.heading.markdown",
+            ],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#747ca1"
             }
         },
         {
             "name": "Markup - Italic",
-            "scope": "markup.italic",
+            "scope": [
+                "markup.italic",
+                "markup.italic punctuation"
+            ],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#c0caf5"
@@ -1210,7 +1253,11 @@
         },
         {
             "name": "Markup - Bold",
-            "scope": "markup.bold",
+            "scope": [
+                "markup.bold",
+                "markup.bold punctuation"
+
+            ],
             "settings": {
                 "fontStyle": "bold",
                 "foreground": "#c0caf5"
@@ -1218,7 +1265,10 @@
         },
         {
             "name": "Markup - Bold-Italic",
-            "scope":"markup.bold markup.italic",
+            "scope": [
+                "markup.bold markup.italic",
+                "markup.bold markup.italic punctuation",
+            ],
             "settings": {
                 "fontStyle": "bold italic",
                 "foreground": "#c0caf5"
@@ -1226,10 +1276,12 @@
         },
         {
             "name": "Markup - Underline",
-            "scope": "markup.underline",
+            "scope": [
+                "markup.underline",
+                "markup.underline punctuation"
+            ],
             "settings": {
-                "fontStyle": "underline",
-                "foreground": "#acb0d0"
+                "fontStyle": "underline"
             }
         },
         {
@@ -1248,23 +1300,14 @@
         },
         {
             "name": "Markdown - Link",
-            "scope": "string.other.link",
+            "scope": [
+                "string.other.link",
+                "markup.underline.link",
+                "constant.other.reference.link.markdown",
+                "string.other.link.description.title.markdown"
+            ],
             "settings": {
-                "foreground": "#2ac3de"
-            }
-        },
-        {
-            "name": "Markdown - Link Description",
-            "scope": "string.other.link.description.title.markdown",
-            "settings": {
-                "foreground": "#bb9af7"
-            }
-        },
-        {
-            "name": "Markdown - Link Anchor",
-            "scope": "constant.other.reference.link.markdown",
-            "settings": {
-                "foreground": "#e0af68"
+                "foreground": "#84bec4"
             }
         },
         {
@@ -1296,7 +1339,7 @@
             "scope": "meta.separator",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#4E5579"
+                "foreground": "#565f89"
             }
         },
         {
