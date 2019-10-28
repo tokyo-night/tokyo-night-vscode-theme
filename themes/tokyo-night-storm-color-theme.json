@@ -936,32 +936,23 @@
         },
         {
             "name": "Inserted",
-            "scope": [
-                "markup.inserted",
-                "markup.inserted.git_gutter"
-            ],
+            "scope": "markup.inserted",
             "settings": {
-                "foreground": "#9ece6a"
+                "foreground": "#449dab"
             }
         },
         {
             "name": "Deleted",
-            "scope": [
-                "markup.deleted",
-                "markup.deleted.git_gutter"
-            ],
+            "scope":"markup.deleted",
             "settings": {
-                "foreground": "#FF5370"
+                "foreground": "#914c54"
             }
         },
         {
             "name": "Changed",
-            "scope": [
-                "markup.changed",
-                "markup.changed.git_gutter"
-            ],
+            "scope": "markup.changed",
             "settings": {
-                "foreground": "#bb9af7"
+                "foreground": "#6183bb"
             }
         },
         {
