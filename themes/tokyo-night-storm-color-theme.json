@@ -1298,31 +1298,18 @@
                 "string.other.link.description.title.markdown"
             ],
             "settings": {
-                "foreground": "#84bec4"
+                "foreground": "#73daca"
             }
         },
         {
-            "name": "Markup - Raw Block",
-            "scope": "markup.raw.block",
-            "settings": {
-                "foreground": "#bb9af7"
-            }
-        },
-        {
-            "name": "Markdown - Fenced Bode Block Variable",
+            "name": "Markdown - Fenced Code Block",
             "scope": [
                 "markup.fenced_code.block.markdown",
-                "markup.inline.raw.string.markdown"
+                "markup.inline.raw.string.markdown",
+                "variable.language.fenced.markdown"
             ],
             "settings": {
                 "foreground": "#89ddff"
-            }
-        },
-        {
-            "name": "Markdown - Fenced Language",
-            "scope": "variable.language.fenced.markdown",
-            "settings": {
-                "foreground": "#4E5579"
             }
         },
         {
