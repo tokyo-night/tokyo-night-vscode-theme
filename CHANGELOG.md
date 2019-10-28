@@ -1,5 +1,10 @@
 # Release Notes
 
+## 0.3.5
+`2019-10-27`
+- Update markdown link color
+- Update markup colors
+
 ## 0.3.4
 `2019-10-27`
 - Better non-eyegouging markdown support
