@@ -356,13 +356,11 @@
             }
         },
         {
-            "name": "String, Symbols, Markup Heading",
+            "name": "String, Symbols",
             "scope": [
                 "string",
                 "constant.other.symbol",
                 "constant.other.key",
-                "markup.heading",
-                "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
                 "meta.attribute-selector"
             ],
             "settings": {
@@ -578,6 +576,7 @@
                 "string.alias.graphql",
                 "string.unquoted.graphql",
                 "string.unquoted.alias.graphql",
+                "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
                 "meta.field.declaration.ts variable.object.property"
             ],
             "settings": {
@@ -859,7 +858,7 @@
                 "variable.other.class.js"
             ],
             "settings": {
-                "foreground": "#FF5370"
+                "foreground": "#c0caf5"
             }
         },
         {
@@ -1169,7 +1168,7 @@
             "name":  "Markdown - Heading 1",
             "scope": [
                 "heading.1.markdown entity.name",
-                "heading.1.markdown punctuation.definition.heading.markdown",
+                "heading.1.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -1180,7 +1179,7 @@
             "name":  "Markdown - Heading 2",
             "scope": [
                 "heading.2.markdown entity.name",
-                "heading.2.markdown punctuation.definition.heading.markdown",
+                "heading.2.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -1191,7 +1190,7 @@
             "name":  "Markdown - Heading 3",
             "scope": [
                 "heading.3.markdown entity.name",
-                "heading.3.markdown punctuation.definition.heading.markdown",
+                "heading.3.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -1202,7 +1201,7 @@
             "name": "Markdown - Heading 4",
             "scope": [
                 "heading.4.markdown entity.name",
-                "heading.4.markdown punctuation.definition.heading.markdown",
+                "heading.4.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -1213,7 +1212,7 @@
             "name":  "Markdown - Heading 5",
             "scope": [
                 "heading.5.markdown entity.name",
-                "heading.5.markdown punctuation.definition.heading.markdown",
+                "heading.5.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -1224,7 +1223,7 @@
             "name":  "Markdown - Heading 6",
             "scope": [
                 "heading.6.markdown entity.name",
-                "heading.6.markdown punctuation.definition.heading.markdown",
+                "heading.6.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -1258,7 +1257,7 @@
             "name": "Markup - Bold-Italic",
             "scope": [
                 "markup.bold markup.italic",
-                "markup.bold markup.italic punctuation",
+                "markup.bold markup.italic punctuation"
             ],
             "settings": {
                 "fontStyle": "bold italic",
