@@ -1123,6 +1123,7 @@
                 "punctuation.definition.class",
                 "punctuation.definition.begin.bracket",
                 "punctuation.definition.end.bracket",
+                "punctuation.definition.group.shell",
                 "punctuation.definition.parameters",
                 "punctuation.definition.arguments",
                 "punctuation.definition.dictionary",
