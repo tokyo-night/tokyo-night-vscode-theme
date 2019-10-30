@@ -1,5 +1,11 @@
 # Release Notes
 
+## 0.3.6
+`2019-10-30`
+- Update editor and misc foreground color
+- Update shell script bracket color
+- Clean up trailing commas, etc.
+
 ## 0.3.5
 `2019-10-27`
 - Update markdown link color
