@@ -453,7 +453,10 @@
                 "punctuation.definition.tag.html",
                 "keyword.other.template",
                 "keyword.other.substitution",
-                "entity.name.operator"
+                "entity.name.operator",
+                "meta.property-list punctuation.separator.key-value",
+                "meta.at-rule.mixin punctuation.separator.key-value",
+                "meta.at-rule.function variable.parameter.url"
             ],
             "settings": {
                 "foreground": "#89ddff"
@@ -775,36 +778,56 @@
         },
         {
             "name": "CSS Tag",
-            "scope": [
-                "entity.name.tag.css",
-                "entity.name.tag.reference"
-            ],
+            "scope": "entity.name.tag.css",
             "settings": {
                 "foreground": "#0db9d7"
             }
         },
         {
-            "name": "CSS Tag Reference",
-            "scope": "entity.name.tag.reference",
+            "name": "CSS Tag Reference, Pseudo & Class Punctuation",
+            "scope": [
+                "entity.other.attribute-name.pseudo-class punctuation.definition.entity",
+                "entity.other.attribute-name.pseudo-element punctuation.definition.entity",
+                "entity.other.attribute-name.class punctuation.definition.entity",
+                "entity.name.tag.reference"
+            ],
             "settings": {
                 "foreground": "#e0af68"
-            }
-        },
-        {
-            "name": "CSS Property Separator",
-            "scope": "meta.property-list punctuation.separator.key-value",
-            "settings": {
-                "foreground": "#9abdf5"
             }
         },
         {
             "name": "CSS Punctuation",
+            "scope": "meta.property-list",
+            "settings": {
+                "foreground": "#9abdf5" //"#e0af68"
+            }
+        },
+        {
+            "name": "CSS at-rule fix",
             "scope": [
-                "meta.property-list",
-                "punctuation.definition.entity.css"
+                "meta.property-list meta.at-rule.if",
+                "meta.at-rule.return variable.parameter.url",
+                "meta.property-list meta.at-rule.else"
             ],
             "settings": {
-                "foreground": "#e0af68"
+                "foreground": "#ff9e64"
+            }
+        },
+        {
+            "name": "CSS Parent Selector Entity",
+            "scope": [
+                "entity.other.attribute-name.parent-selector-suffix punctuation.definition.entity.css"
+            ],
+            "settings": {
+                "foreground": "#73daca"
+            }
+        },
+        {
+            "name": "CSS Punctuation comma fix",
+            "scope":
+                "meta.property-list meta.property-list",
+            "settings": {
+                "foreground": "#9abdf5"
             }
         },
         {

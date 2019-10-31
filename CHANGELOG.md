@@ -1,5 +1,9 @@
 # Release Notes
 
+## 0.3.7
+`2019-10-30`
+- Fix CSS punctuation in certain situations
+
 ## 0.3.6
 `2019-10-30`
 - Update editor and misc foreground color
