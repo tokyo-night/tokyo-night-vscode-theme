@@ -46,13 +46,14 @@ I prefer my Codelens text fade into the background unless hovered over, but if y
 ```
 
 
-## iTerm Theme
-`tokyo-night.itermcolors` is supplied in this theme's ~/.vscode/extensions folder or via [github.](https://github.com/enkia/tokyo-night-vscode-theme/blob/master/tokyo-night.itermcolors)   
+## Other portings
+**iTerm**  
+`tokyo-night.itermcolors` is supplied in this theme's ~/.vscode/extensions folder or via [github.](https://github.com/enkia/tokyo-night-vscode-theme/blob/master/tokyo-night.itermcolors)
 
+**Sublime Text**  
+*Tokyo Night* is a color scheme option in my [Enki Theme.](https://packagecontrol.io/packages/Enki%20Theme)
+
+<br><br>
 **Enjoy!**
-    
-    
-    
 
-
-Tokyo Tower icon used in theme icon made by Smashicons from www.flaticon.com
+###### Tokyo Tower icon used in theme icon made by Smashicons from www.flaticon.com
