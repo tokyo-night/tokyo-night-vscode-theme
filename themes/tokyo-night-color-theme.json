@@ -925,6 +925,7 @@
             "name": "Vue Template attributes",
             "scope": [
                 "meta.directive.vue punctuation.separator.key-value.html",
+                "entity.other.attribute-name.id.html",
                 "meta.directive.vue entity.other.attribute-name.html"
             ],
             "settings": {

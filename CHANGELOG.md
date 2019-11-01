@@ -1,5 +1,9 @@
 # Release Notes
 
+## 0.3.9
+`2019-11-1`
+- Fix HTML id attribute color bug
+
 ## 0.3.8
 `2019-11-1`
 - Tweak Peek view colors
