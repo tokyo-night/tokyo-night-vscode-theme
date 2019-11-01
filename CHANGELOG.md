@@ -1,5 +1,9 @@
 # Release Notes
 
+## 0.3.8
+`2019-11-1`
+- Tweak Peek view colors
+
 ## 0.3.7
 `2019-10-30`
 - Fix CSS punctuation in certain situations
