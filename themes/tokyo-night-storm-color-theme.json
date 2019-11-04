@@ -413,13 +413,30 @@
             }
         },
         {
-            "name": "Interpolation",
+            "name": "Interpolation / PHP tags / Smarty tags",
             "scope": [
                 "punctuation.definition.template-expression",
-                "punctuation.section.embedded"
+                "punctuation.section.embedded",
+                "meta.embedded.line.tag.smarty",
+                "support.constant.handlebars",
+                "punctuation.section.tag.twig"
             ],
             "settings": {
                 "foreground": "#7dcfff"
+            }
+        },
+        {
+            "name": "Twig, Smarty, Blade, Handlebars keyword",
+            "scope": [
+                "keyword.control.smarty",
+                "keyword.control.twig",
+                "support.constant.handlebars keyword.control",
+                "keyword.operator.comparison.twig",
+                "keyword.blade",
+                "entity.name.function.blade"
+            ],
+            "settings": {
+                "foreground": "#2ac3de"
             }
         },
         {
@@ -441,6 +458,9 @@
                 "keyword.other",
                 "keyword.operator.bitwise.shift",
                 "punctuation",
+                "text.html.twig meta.tag.inline.any.html",
+                "meta.tag.template.value.twig meta.function.arguments.twig",
+                "meta.directive.vue punctuation.separator.key-value.html",
                 "punctuation.definition.constant.markdown",
                 "punctuation.definition.string",
                 "punctuation.support.type.property-name",
@@ -525,16 +545,6 @@
             }
         },
         {
-            "name": "Blade",
-            "scope": [
-                "keyword.blade",
-                "entity.name.function.blade"
-            ],
-            "settings": {
-                "foreground": "#7aa2f7"
-            }
-        },
-        {
             "name": "Globals, PHP Constants, etc",
             "scope": [
                 "constant.other.php",
@@ -553,7 +563,8 @@
             "scope": [
                 "variable",
                 "support.variable",
-                "string constant.other.placeholder"
+                "string constant.other.placeholder",
+                "variable.parameter.handlebars"
             ],
             "settings": {
                 "foreground": "#c0caf5"
@@ -657,7 +668,7 @@
                 "meta.function.parameter variable"
             ],
             "settings": {
-                "foreground": "#e0af68"
+                "foreground": "#e0af68" //#73daca
             }
         },
         {
@@ -910,6 +921,7 @@
                 "entity.other.attribute-name",
                 "text.html.basic entity.other.attribute-name.html",
                 "text.html.basic entity.other.attribute-name"
+
             ],
             "settings": {
                 "foreground": "#bb9af7"
@@ -918,19 +930,11 @@
         {
             "name": "Vue Template attributes",
             "scope": [
-                "meta.directive.vue punctuation.separator.key-value.html",
                 "entity.other.attribute-name.id.html",
                 "meta.directive.vue entity.other.attribute-name.html"
             ],
             "settings": {
                 "foreground": "#bb9af7"
-            }
-        },
-        {
-            "name": "Vue Template attribute separator",
-            "scope": "meta.directive.vue punctuation.separator.key-value.html",
-            "settings": {
-                "foreground": "#89ddff"
             }
         },
         {
