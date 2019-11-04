@@ -1,5 +1,11 @@
 # Release Notes
 
+## 0.4.0
+`2019-11-4`
+- Fix HTML tag color in certain situations
+- Update Smarty, Twig, Blade keyword colors
+- Add Handlebars support
+
 ## 0.3.9
 `2019-11-1`
 - Fix HTML id attribute color bug
