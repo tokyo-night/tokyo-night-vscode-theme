@@ -448,9 +448,7 @@
                 "punctuation.definition.keyword",
                 "punctuation.terminator.rule",
                 "punctuation.definition.entity",
-                "punctuation.definition.tag",
                 "punctuation.separator.inheritance.php",
-                "punctuation.definition.tag.html",
                 "keyword.other.template",
                 "keyword.other.substitution",
                 "entity.name.operator",
@@ -521,11 +519,7 @@
         },
         {
             "name": "Tag Punctuation",
-            "scope": [
-                "punctuation.definition.tag",
-                "punctuation.definition.tag.begin.html",
-                "punctuation.definition.tag.end.html"
-            ],
+            "scope": "punctuation.definition.tag",
             "settings": {
                 "foreground": "#ba3c97"
             }
