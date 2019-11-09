@@ -1,5 +1,9 @@
 # Release Notes
 
+## 0.4.1
+`2019-11-9`
+- Add window active and inactive borders (1.40.0)
+
 ## 0.4.0
 `2019-11-4`
 - Fix HTML tag color in certain situations

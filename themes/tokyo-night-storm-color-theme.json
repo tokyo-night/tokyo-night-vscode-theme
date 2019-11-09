@@ -15,6 +15,8 @@
         "icon.foreground": "#7982a9",
         "imagePreview.border": "#9cacff33",
         "settings.headerForeground": "#6183bb",
+        "window.activeBorder": "#0d0f17",
+        "window.inactiveBorder":"#0d0f17",
 
         "extensionButton.prominentBackground": "#3d59a1DD",
         "extensionButton.prominentHoverBackground": "#3d59a1AA",
@@ -49,6 +51,8 @@
 
         "activityBar.background": "#1f2335",
         "activityBar.foreground": "#7982a9",
+        //"activityBar.activeBorder": "#41496b",
+        //"activityBar.activeBackground": "#1c2030",
         "activityBar.inactiveForeground": "#41496b", //#3b4261
         "activityBar.border": "#1f2335",
         "activityBar.dropBackground": "#282e44",
