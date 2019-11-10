@@ -108,7 +108,7 @@
         "editor.findMatchHighlightBackground": "#3d59a166",
 
         "editor.findRangeHighlightBackground": "#515c7e33",
-        "editor.rangeHighlightBackground": "#515c7e11",
+        "editor.rangeHighlightBackground": "#515c7e20",
         "editor.wordHighlightBackground": "#515c7e33",
         "editor.wordHighlightStrongBackground": "#515c7e44",
 
