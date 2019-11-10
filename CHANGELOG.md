@@ -1,5 +1,10 @@
 # Release Notes
 
+## 0.4.2
+`2019-11-10`
+- Update range highlight background
+- Add selection highlight background
+
 ## 0.4.1
 `2019-11-9`
 - Add window active and inactive borders (1.40.0)
