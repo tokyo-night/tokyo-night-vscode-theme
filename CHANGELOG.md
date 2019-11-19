@@ -1,5 +1,9 @@
 # Release Notes
 
+## 0.4.3
+`2019-11-19`
+- Update selection background color
+
 ## 0.4.2
 `2019-11-10`
 - Update range highlight background
