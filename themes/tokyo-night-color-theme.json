@@ -95,12 +95,12 @@
         "scrollbarSlider.hoverBackground": "#868bc410",
         "scrollbarSlider.activeBackground": "#868bc422",
 
-        "selection.background": "#515c7e33",
+        "selection.background": "#515c7e40",
         "editor.background": "#1a1b26",
         "editor.foreground": "#a9b1d6",
         "editorLink.activeForeground": "#acb0d0",
 
-        "editor.selectionBackground": "#515c7e33",
+        "editor.selectionBackground": "#515c7e40",
         "editor.inactiveSelectionBackground": "#515c7e25",
 
         "editor.findMatchBackground": "#3d59a166",
