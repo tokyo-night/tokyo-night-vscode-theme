@@ -1,4 +1,8 @@
 # Release Notes
+## 0.4.5
+`2019-12-12`
+- Update Tokyo Night 'editor red' to use the same color as Tokyo Night Storm
+
 ## 0.4.4
 `2019-12-12`
 - Brighten selection background

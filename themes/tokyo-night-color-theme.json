@@ -253,7 +253,7 @@
         // "terminalCursor.foreground": "",
 
         "terminal.ansiBlack": "#0f0f14",
-        "terminal.ansiRed": "#f78f8f",
+        "terminal.ansiRed": "#f7768e",
         "terminal.ansiGreen": "#41a6b5",
         "terminal.ansiYellow": "#e0af68",
         "terminal.ansiBlue": "#7aa2f7",
@@ -261,7 +261,7 @@
         "terminal.ansiCyan": "#7dcfff",
         "terminal.ansiWhite": "#787c99",
         "terminal.ansiBrightBlack": "#0f0f14",
-        "terminal.ansiBrightRed": "#f78f8f",
+        "terminal.ansiBrightRed": "#f7768e",
         "terminal.ansiBrightGreen": "#41a6b5",
         "terminal.ansiBrightYellow": "#e0af68",
         "terminal.ansiBrightBlue": "#7aa2f7",
@@ -456,7 +456,7 @@
                 "keyword.operator.rest"
             ],
             "settings": {
-                "foreground": "#f78f8f",
+                "foreground": "#f7768e",
                 "fontStyle": "bold"
             }
         },
@@ -544,7 +544,7 @@
                 "meta.tag"
             ],
             "settings": {
-                "foreground": "#f78f8f"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -631,14 +631,14 @@
             "name": "C-related Block Level Variables",
             "scope": "source.cpp meta.block variable.other",
             "settings": {
-                "foreground": "#f78f8f"
+                "foreground": "#f7768e"
             }
         },
         {
             "name": "Other Variable",
             "scope": "support.other.variable",
             "settings": {
-                "foreground": "#f78f8f"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -903,7 +903,7 @@
             "name": "Language methods",
             "scope": "variable.language",
             "settings": {
-                "foreground": "#f78f8f"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -921,7 +921,7 @@
                 "keyword.other.this"
             ],
             "settings": {
-                "foreground": "#f78f8f"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -996,7 +996,7 @@
             "name": "Regular Expressions - Punctuation",
             "scope": "punctuation.definition.group",
             "settings": {
-                "foreground": "#f78f8f"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -1053,7 +1053,7 @@
             "name": "CSS Units",
             "scope": "keyword.other.unit",
             "settings": {
-                "foreground": "#f78f8f"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -1125,7 +1125,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#f78f8f"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -1390,7 +1390,7 @@
             "name": "Apache Tag",
             "scope": "entity.tag.apacheconf",
             "settings": {
-                "foreground": "#f78f8f"
+                "foreground": "#f7768e"
             }
         },
         {
