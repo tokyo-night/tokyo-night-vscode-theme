@@ -152,6 +152,10 @@
         "editorGutter.addedBackground": "#164846",
         "editorGutter.deletedBackground": "#823c41",
 
+        "minimapGutter.modifiedBackground": "#425882",
+        "minimapGutter.addedBackground": "#1C5957",
+        "minimapGutter.deletedBackground": "#944449",
+
         "editorGroup.border": "#101014",
         "editorGroup.dropBackground": "#1e202e",
         "editorGroupHeader.tabsBorder": "#101014",
