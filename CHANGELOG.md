@@ -1,4 +1,9 @@
 # Release Notes
+## 0.4.4
+`2019-12-12`
+- Brighten selection background
+- Update bracket match background
+- Add minimap gutter VCS decorations
 
 ## 0.4.3
 `2019-11-19`
