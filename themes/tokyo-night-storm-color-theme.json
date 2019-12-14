@@ -587,6 +587,13 @@
             }
         },
         {
+            "name": " Variable Array Key",
+            "scope": "meta.array.literal variable",
+            "settings": {
+                "foreground": "#7dcfff"
+            }
+        },
+        {
             "name": "Object Key",
             "scope": [
                 "meta.object-literal.key",

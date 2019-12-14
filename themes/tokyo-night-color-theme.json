@@ -584,7 +584,14 @@
             "name": "Object Variable",
             "scope": "variable.other.object",
             "settings": {
-                "foreground": "#c0caf5"
+                "foreground": "#7dcfff"
+            }
+        },
+        {
+            "name": " Variable Array Key",
+            "scope": "meta.array.literal variable",
+            "settings": {
+                "foreground": "#73daca"
             }
         },
         {

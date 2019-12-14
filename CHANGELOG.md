@@ -1,4 +1,8 @@
 # Release Notes
+## 0.4.6
+`2019-12-13`
+- Color variables in bracket notation like properties using dot notation
+
 ## 0.4.5
 `2019-12-12`
 - Update Tokyo Night 'editor red' to use the same color as Tokyo Night Storm
