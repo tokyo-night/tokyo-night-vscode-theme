@@ -1,4 +1,9 @@
 # Release Notes
+
+## 0.4.8
+`2020-01-01`
+- Update variable color in bracket notation
+
 ## 0.4.7
 `2020-01-01`
 - Fix object color when using dot notation inside bracket/parenthesis

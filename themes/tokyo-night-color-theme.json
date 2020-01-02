@@ -588,10 +588,10 @@
             }
         },
         {
-            "name": " Variable Array Key",
+            "name": "Variable Array Key",
             "scope": "meta.array.literal variable",
             "settings": {
-                "foreground": "#73daca"
+                "foreground": "#7dcfff" //"#73daca"
             }
         },
         {
