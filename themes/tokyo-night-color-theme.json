@@ -584,7 +584,7 @@
             "name": "Object Variable",
             "scope": "variable.other.object",
             "settings": {
-                "foreground": "#7dcfff"
+                "foreground": "#c0caf5"
             }
         },
         {

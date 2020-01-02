@@ -1,4 +1,8 @@
 # Release Notes
+## 0.4.7
+`2020-01-01`
+- Fix object color when using dot notation inside bracket/parenthesis
+
 ## 0.4.6
 `2019-12-13`
 - Color variables in bracket notation like properties using dot notation
