@@ -1,5 +1,6 @@
 # Release Notes
 ## 0.4.9
+`2020-11-03`
 - Update readme to reference the new semantic highlighting feature. 
 
 ## 0.4.8
