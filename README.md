@@ -4,6 +4,10 @@
 [![Issues](https://img.shields.io/github/issues/enkia/tokyo-night-vscode-theme)](https://github.com/enkia/tokyo-night-vscode-theme/issues)
 <br><br>A clean, dark Visual Studio Code theme that celebrates the lights of Downtown [Tokyo at night.](https://www.google.com/search?q=tokyo+night&newwindow=1&sxsrf=ACYBGNRiOGCstG_Xohb8CgG5UGwBRpMIQg:1571032079139&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiayIfIhpvlAhUGmuAKHbfRDaIQ_AUIEigB&biw=1280&bih=666&dpr=2) 
 <br><br>**Note:** Many UI elements are intentionally low contrast so as not to distract. I can provide [customization settings](https://code.visualstudio.com/api/references/theme-color) similar to what is shown below to anyone who needs specific text brightened. 
+<br><br>**Visual Studio Code 1.43.0 change to syntax highlighting:** I'm currently trying to find out how or if I need to update the theme to utilize the new semantic highlighting feature. There also seems to be [issues](https://github.com/microsoft/vscode/issues/92308) with it as well. For example, while Vscode's scope inspector shows it's pulling in my intended function color, it reverts to the default white after a few seconds.  To disable the feature for the time being you can search for or add this to your settings:
+```javascript
+"editor.semanticHighlighting.enabled": false
+```
 
 ## Screenshots
 Tokyo Night
