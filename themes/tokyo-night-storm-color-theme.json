@@ -127,7 +127,7 @@
         "editorHoverWidget.border": "#1b1e2e",
 
         "editorBracketMatch.background": "#1f2335",
-        "editorBracketMatch.border": "#3b4261",
+        "editorBracketMatch.border": "#545c7e", //"#3b4261",
 
         "editorOverviewRuler.border": "#1b1e2e",
         "editorOverviewRuler.errorForeground": "#db4b4b",
