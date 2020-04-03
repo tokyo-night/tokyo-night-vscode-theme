@@ -6,6 +6,7 @@
     "semanticClass": "tokyo-night",
     "colors": {
         "foreground": "#787c99",
+        "descriptionForeground": "#515670",
         "focusBorder": "#545c7e33",
         "errorForeground": "#515670",
         "widget.shadow": "#ffffff00",
