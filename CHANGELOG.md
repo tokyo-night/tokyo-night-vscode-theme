@@ -1,6 +1,12 @@
 # Release Notes
+## 0.5.0
+`2020-03-04`
+- Add *Tokyo Night Light* theme variation
+- Update Welcome page text color
+- Update editor bracket match border color
+
 ## 0.4.9
-`2020-11-03`
+`2020-03-11`
 - Update readme to reference the new semantic highlighting feature. 
 
 ## 0.4.8

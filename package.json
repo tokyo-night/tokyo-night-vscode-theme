@@ -1,7 +1,7 @@
 {
     "name": "tokyo-night",
     "displayName": "Tokyo Night",
-    "description": "A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
+    "description": "A clean, dark (and now light) Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
     "version": "0.4.9",
     "publisher": "enkia",
     "license": "MIT",
@@ -9,6 +9,7 @@
         "theme",
         "contrast",
         "dark",
+        "light",
         "tokyo",
         "clean"
     ],
@@ -43,6 +44,11 @@
                 "label": "Tokyo Night Storm",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tokyo-night-storm-color-theme.json"
+            },
+            {
+                "label": "Tokyo Night Light",
+                "uiTheme": "vs",
+                "path": "./themes/tokyo-night-light-color-theme.json"
             }
         ]
     },
