@@ -1,4 +1,12 @@
 # Release Notes
+## 0.5.2
+`2020-11-04`
+- Update terminal black color
+
+## 0.5.1
+`2020-03-04`
+- Update readme
+
 ## 0.5.0
 `2020-03-04`
 - Add *Tokyo Night Light* theme variation
