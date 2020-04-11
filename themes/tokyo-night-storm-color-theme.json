@@ -19,6 +19,9 @@
         "window.activeBorder": "#0d0f17",
         "window.inactiveBorder":"#0d0f17",
 
+        "welcomePage.buttonBackground": "#1b1e2e",
+        "welcomePage.buttonHoverBackground": "#1b1e2eaa",
+
         "extensionButton.prominentBackground": "#3d59a1DD",
         "extensionButton.prominentHoverBackground": "#3d59a1AA",
         "extensionButton.prominentForeground": "#ffffff",
@@ -252,7 +255,7 @@
         // "terminalCursor.background": "",
         // "terminalCursor.foreground": "",
 
-        "terminal.ansiBlack": "#3b4261", //"#0f0f14",
+        "terminal.ansiBlack": "#3b4261",
         "terminal.ansiRed": "#f7768e",
         "terminal.ansiGreen": "#73daca",
         "terminal.ansiYellow": "#e0af68",
@@ -260,7 +263,7 @@
         "terminal.ansiMagenta": "#bb9af7",
         "terminal.ansiCyan": "#7dcfff",
         "terminal.ansiWhite": "#7982a9",
-        "terminal.ansiBrightBlack": "#3b4261", //"#0f0f14",
+        "terminal.ansiBrightBlack": "#3b4261",
         "terminal.ansiBrightRed": "#f7768e",
         "terminal.ansiBrightGreen": "#73daca",
         "terminal.ansiBrightYellow": "#e0af68",

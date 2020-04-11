@@ -19,6 +19,9 @@
         "window.activeBorder": "#0d0f17",
         "window.inactiveBorder":"#0d0f17",
 
+        "welcomePage.buttonBackground": "#16161e",
+        "welcomePage.buttonHoverBackground": "#14141b",
+
         "extensionButton.prominentBackground": "#3d59a1DD",
         "extensionButton.prominentHoverBackground": "#3d59a1AA",
         "extensionButton.prominentForeground": "#ffffff",

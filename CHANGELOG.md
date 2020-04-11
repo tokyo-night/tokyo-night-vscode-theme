@@ -1,4 +1,8 @@
 # Release Notes
+## 0.5.3
+`2020-11-04`
+- Update welcome page button background color
+
 ## 0.5.2
 `2020-11-04`
 - Update terminal black color
