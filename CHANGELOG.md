@@ -1,4 +1,9 @@
 # Release Notes
+
+## 0.5.4
+`2020-20-04`
+- Update comment doc colors
+
 ## 0.5.3
 `2020-11-04`
 - Update welcome page button background color

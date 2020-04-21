@@ -326,7 +326,8 @@
 			"scope": [
                 "comment",
                 "comment.block.documentation",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
+                "comment.block.documentation punctuation",
 			],
 			"settings": {
 				"foreground": "#565f89"
@@ -337,15 +338,15 @@
             "scope": [
                 "comment.block.documentation variable",
                 "comment.block.documentation storage",
-                "comment.block.documentation punctuation",
                 "comment.block.documentation keyword",
                 "comment.block.documentation support",
                 "comment.block.documentation markup",
                 "comment.block.documentation markup.inline.raw.string.markdown",
+                "meta.other.type.phpdoc.php keyword.other.type.php",
 				"keyword.other.phpdoc.php"
             ],
             "settings": {
-                "foreground": "#7982a9"
+                "foreground": "#6a75a8" //"#7982a9"
             }
         },
         {
