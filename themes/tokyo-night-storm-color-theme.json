@@ -165,6 +165,7 @@
         "editorGroupHeader.tabsBorder": "#1b1e2e",
         "editorGroupHeader.tabsBackground": "#1f2335",
         "editorGroupHeader.noTabsBackground": "#1f2335",
+        "editorGroupHeader.border": "#1b1e2e",
 
         "editorPane.background": "#1f2335",
 
@@ -205,13 +206,15 @@
         "tab.activeBackground": "#1f2335",
         "tab.inactiveBackground": "#1f2335",
         "tab.activeForeground": "#a9b1d6",
+        "tab.hoverForeground": "#a9b1d6",
         "tab.activeBorder": "#3d59a1",
         "tab.inactiveForeground": "#7982a9",
         "tab.border": "#1b1e2e",
         "tab.unfocusedActiveForeground": "#a9b1d6",
-        "tab.unfocusedInactiveForeground": "#a9b1d6",
+        "tab.unfocusedInactiveForeground": "#7982a9",
+        "tab.unfocusedHoverForeground": "#a9b1d6",
         "tab.activeModifiedBorder": "#1f2335",
-        "tab.unfocusedActiveBorder": "#595d78",
+        "tab.unfocusedActiveBorder": "#3b4261",
 
         "panel.background": "#1f2335",
         "panel.border": "#1b1e2e",

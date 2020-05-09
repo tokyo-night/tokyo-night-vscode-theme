@@ -1,4 +1,7 @@
 # Release Notes
+## 0.5.5
+`2020-09-05`
+- Minor tab style updates
 
 ## 0.5.4
 `2020-20-04`
