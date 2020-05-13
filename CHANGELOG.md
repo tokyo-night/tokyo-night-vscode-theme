@@ -1,4 +1,8 @@
 # Release Notes
+## 0.5.6
+`2020-13-05`
+- PHPDoc updates
+
 ## 0.5.5
 `2020-09-05`
 - Minor tab style updates

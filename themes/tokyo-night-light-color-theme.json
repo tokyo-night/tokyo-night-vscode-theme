@@ -369,10 +369,21 @@
                 "comment.block.documentation markup",
                 "comment.block.documentation markup.inline.raw.string.markdown",
                 "meta.other.type.phpdoc.php keyword.other.type.php",
+                "meta.other.type.phpdoc.php support.other.namespace.php",
+                "meta.other.type.phpdoc.php punctuation.separator.inheritance.php",
+                "meta.other.type.phpdoc.php support.class",
 				"keyword.other.phpdoc.php"
             ],
             "settings": {
                 "foreground": "#7c7f87"
+            }
+        },
+        {
+            "name": "Comment Doc Emphasized",
+            "scope": "meta.other.type.phpdoc.php support.class",
+            "settings": {
+                "foreground": "#73767d"
+                //"fontStyle": "bold"
             }
         },
         {
