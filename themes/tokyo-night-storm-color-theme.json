@@ -213,7 +213,7 @@
         "tab.unfocusedActiveForeground": "#a9b1d6",
         "tab.unfocusedInactiveForeground": "#7982a9",
         "tab.unfocusedHoverForeground": "#a9b1d6",
-        "tab.activeModifiedBorder": "#1f2335",
+        "tab.activeModifiedBorder": "#3d59a1",
         "tab.unfocusedActiveBorder": "#3b4261",
 
         "panel.background": "#1f2335",
