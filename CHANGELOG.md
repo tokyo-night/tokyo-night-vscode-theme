@@ -1,27 +1,27 @@
 # Release Notes
 ## 0.5.7
-`2020-26-06`
+`2020-06-26`
 - Update log.date color
 - Update modified tab border
 
 ## 0.5.6
-`2020-13-05`
+`2020-05-13`
 - PHPDoc updates
 
 ## 0.5.5
-`2020-09-05`
+`2020-05-09`
 - Minor tab style updates
 
 ## 0.5.4
-`2020-20-04`
+`2020-04-20`
 - Update comment doc colors
 
 ## 0.5.3
-`2020-11-04`
+`2020-04-11`
 - Update welcome page button background color
 
 ## 0.5.2
-`2020-11-04`
+`2020-04-11`
 - Update terminal black color
 
 ## 0.5.1
@@ -80,11 +80,11 @@
 - Add Handlebars support
 
 ## 0.3.9
-`2019-11-1`
+`2019-11-01`
 - Fix HTML id attribute color bug
 
 ## 0.3.8
-`2019-11-1`
+`2019-11-01`
 - Tweak Peek view colors
 
 ## 0.3.7
