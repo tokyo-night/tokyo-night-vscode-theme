@@ -350,7 +350,8 @@
                 "meta.other.type.phpdoc.php support.other.namespace.php",
                 "meta.other.type.phpdoc.php punctuation.separator.inheritance.php",
                 "meta.other.type.phpdoc.php support.class",
-				"keyword.other.phpdoc.php"
+				"keyword.other.phpdoc.php",
+                "log.date"
             ],
             "settings": {
                 "foreground": "#5a638c"
