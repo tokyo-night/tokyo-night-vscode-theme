@@ -1,4 +1,9 @@
 # Release Notes
+## 0.5.7
+`2020-26-06`
+- Update log.date color
+- Update modified tab border
+
 ## 0.5.6
 `2020-13-05`
 - PHPDoc updates

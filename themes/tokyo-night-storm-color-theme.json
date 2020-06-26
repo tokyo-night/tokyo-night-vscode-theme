@@ -59,7 +59,6 @@
         //"activityBar.activeBackground": "#1c2030",
         "activityBar.inactiveForeground": "#41496b", //#3b4261
         "activityBar.border": "#1f2335",
-        "activityBar.dropBackground": "#282e44",
         "activityBarBadge.background": "#3d59a1",
         "activityBarBadge.foreground": "#fff",
 
@@ -213,7 +212,8 @@
         "tab.unfocusedActiveForeground": "#a9b1d6",
         "tab.unfocusedInactiveForeground": "#7982a9",
         "tab.unfocusedHoverForeground": "#a9b1d6",
-        "tab.activeModifiedBorder": "#1f2335",
+        "tab.activeModifiedBorder": "#282d42",
+        "tab.inactiveModifiedBorder": "#282d42",
         "tab.unfocusedActiveBorder": "#3b4261",
 
         "panel.background": "#1f2335",
