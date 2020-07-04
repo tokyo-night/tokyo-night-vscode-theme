@@ -1,4 +1,8 @@
 # Release Notes
+## 0.5.8
+`2020-07-04`
+- Fix Tokyo Night Light menu and menubar selection background for windows users (Thanks to [rychkog](https://github.com/rychkog))
+
 ## 0.5.7
 `2020-06-26`
 - Update log.date color
