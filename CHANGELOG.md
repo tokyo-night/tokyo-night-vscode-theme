@@ -1,4 +1,8 @@
 # Release Notes
+## 0.5.9
+`2020-07-14`
+- Update HTML Character Entity color
+
 ## 0.5.8
 `2020-07-04`
 - Fix Tokyo Night Light menu and menubar selection background for windows users (Thanks to [rychkog](https://github.com/rychkog))

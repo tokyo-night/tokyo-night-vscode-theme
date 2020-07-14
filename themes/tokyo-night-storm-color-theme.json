@@ -964,6 +964,13 @@
             }
         },
         {
+            "name": "HTML Character Entity",
+            "scope": "text.html constant.character.entity",
+            "settings": {
+                "foreground": "#2AC3DE"
+            }
+        },
+        {
             "name": "Vue Template attributes",
             "scope": [
                 "entity.other.attribute-name.id.html",
