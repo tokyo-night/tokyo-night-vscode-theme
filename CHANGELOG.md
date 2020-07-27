@@ -1,4 +1,8 @@
 # Release Notes
+## 0.6.0
+`2020-07-27`
+- Update terminal black color for Tokyo Night Storm and iTerm. 
+
 ## 0.5.9
 `2020-07-14`
 - Update HTML Character Entity color
