@@ -1,4 +1,8 @@
 # Release Notes
+## 0.6.1
+`2020-08-07`
+- Fix switch statement punctuation color for certain syntax definitions.
+
 ## 0.6.0
 `2020-07-27`
 - Update terminal black color for Tokyo Night Storm and iTerm. 

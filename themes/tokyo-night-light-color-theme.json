@@ -353,7 +353,7 @@
                 "comment",
                 "comment.block.documentation",
 				"punctuation.definition.comment",
-                "comment.block.documentation punctuation",
+                "comment.block.documentation punctuation"
 			],
 			"settings": {
 				"foreground": "#9699a3"
@@ -1219,6 +1219,10 @@
                 "punctuation.definition.class",
                 "punctuation.definition.begin.bracket",
                 "punctuation.definition.end.bracket",
+                "punctuation.definition.switch-expression.begin.bracket",
+                "punctuation.definition.switch-expression.end.bracket",
+                "punctuation.definition.section.switch-block.begin.bracket",
+                "punctuation.definition.section.switch-block.end.bracket",
                 "punctuation.definition.group.shell",
                 "punctuation.definition.parameters",
                 "punctuation.definition.arguments",
