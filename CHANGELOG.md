@@ -1,4 +1,8 @@
 # Release Notes
+## 0.6.2
+`2020-08-10`
+- Fix Tokyo Night Light's windows menubar update reversion
+
 ## 0.6.1
 `2020-08-07`
 - Fix switch statement punctuation color for certain syntax definitions.

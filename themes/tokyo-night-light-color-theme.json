@@ -307,12 +307,12 @@
         "notificationsInfoIcon.foreground": "#637dbf",
 
         "menubar.selectionForeground":"#343b58",
-        "menubar.selectionBackground":"#2f3549",
+        "menubar.selectionBackground":"#7a85a8",
         "menubar.selectionBorder":"#c1c2c7",
         "menu.foreground":"#4c505e",
         "menu.background":"#cbccd1",
         "menu.selectionForeground":"#343b58",
-        "menu.selectionBackground":"#2f3549",
+        "menu.selectionBackground":"#7a85a8",
         "menu.separatorBackground":"#c1c2c7",
         "menu.border":"#c1c2c7"
     },
