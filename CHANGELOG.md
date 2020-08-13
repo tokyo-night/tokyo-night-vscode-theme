@@ -1,4 +1,8 @@
 # Release Notes
+## 0.6.3
+`2020-08-13`
+- Update JSDoc comment colors
+
 ## 0.6.2
 `2020-08-10`
 - Fix Tokyo Night Light's windows menubar update reversion

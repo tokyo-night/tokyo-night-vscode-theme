@@ -358,7 +358,12 @@
         },
         {
             "name": "Comment Doc Emphasized",
-            "scope": "meta.other.type.phpdoc.php support.class",
+            "scope": [
+                "meta.other.type.phpdoc.php support.class",
+                "comment.block.documentation storage.type",
+                "comment.block.documentation punctuation.definition.block.tag",
+                "comment.block.documentation entity.name.type.instance"
+            ],
             "settings": {
                 "foreground": "#7582ba"
                 //"fontStyle": "bold"
