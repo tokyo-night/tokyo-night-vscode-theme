@@ -22,7 +22,7 @@
         "extensionButton.prominentBackground": "#34548aDD",
         "extensionButton.prominentHoverBackground": "#34548aAA",
         "extensionButton.prominentForeground": "#ffffff",
-        "extensionBadge.remoteBackground": "#3d86a1",
+        "extensionBadge.remoteBackground": "#34548a",
         "extensionBadge.remoteForeground": "#ffffff",
 
         "button.background": "#34548add",
