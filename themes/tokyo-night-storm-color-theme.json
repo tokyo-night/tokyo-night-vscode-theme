@@ -74,6 +74,7 @@
         "sideBar.dropBackground": "#292e42",
 
         "list.dropBackground": "#292e42",
+        "list.deemphasizedForeground": "#7982a9",
         "list.activeSelectionBackground": "#2c324a",
         "list.activeSelectionForeground": "#a9b1d6",
         "list.inactiveSelectionBackground": "#292e42",
@@ -252,6 +253,24 @@
         "debugExceptionWidget.border": "#963c47",
         "debugExceptionWidget.background": "#1b1e2e",
         "debugToolBar.background": "#1b1e2e",
+
+        "debugConsole.infoForeground": "#7982a9",
+        "debugConsole.errorForeground": "#bb616b",
+        "debugConsole.sourceForeground": "#7982a9",
+        "debugConsole.warningForeground": "#c49a5a",
+        "debugConsoleInputIcon.foreground":"#73daca",
+
+        "editor.stackFrameHighlightBackground":"#e2bd3a20",
+        "editor.focusedStackFrameHighlightBackground":"#73daca20",
+        "debugView.stateLabelForeground":"#7982a9",
+        "debugView.stateLabelBackground": "#1b1e2e",
+        "debugView.valueChangedHighlight": "#3d59a1cc",
+        "debugTokenExpression.name": "#7dcfff",
+        "debugTokenExpression.value":"#9aa5ce",
+        "debugTokenExpression.string":"#9ece6a",
+        "debugTokenExpression.boolean":"#ff9e64",
+        "debugTokenExpression.number":"#ff9e64",
+        "debugTokenExpression.error":"#bb616b",
 
         "terminal.background": "#1f2335",
         "terminal.foreground": "#7982a9",

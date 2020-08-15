@@ -70,6 +70,7 @@
         "sideBar.dropBackground": "#c1c2c7",
 
         "list.dropBackground": "#c1c2c7",
+        "list.deemphasizedForeground":"#4c505e",
         "list.activeSelectionBackground": "#d5d6db",
         "list.activeSelectionForeground": "#4c505e",
         "list.inactiveSelectionBackground": "#d5d6db",
@@ -253,6 +254,21 @@
         "debugExceptionWidget.border": "#942f2f",
         "debugExceptionWidget.background": "#fafbff40",
         "debugToolBar.background": "#d5d6db",
+
+        "debugConsole.infoForeground": "#166775",
+        "debugConsole.errorForeground": "#942f2f",
+
+        "editor.stackFrameHighlightBackground":"#e7e8c8",
+        "editor.focusedStackFrameHighlightBackground":"#c5e3d0",
+        "debugView.stateLabelForeground":"#4c505e",
+        "debugView.stateLabelBackground": "#d5d6db",
+        "debugView.valueChangedHighlight": "#f4f5f8",
+        "debugTokenExpression.name": "#34548a",
+        "debugTokenExpression.value":"#565a6e",
+        "debugTokenExpression.string":"#485e30",
+        "debugTokenExpression.boolean":"#965027",
+        "debugTokenExpression.number":"#965027",
+        "debugTokenExpression.error":"#942f2f",
 
         "debugIcon.startForeground": "#34548a",
         "debugIcon.pauseForeground": "#3e6396",
