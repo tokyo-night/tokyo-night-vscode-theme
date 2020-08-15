@@ -1,4 +1,10 @@
 # Release Notes
+## 0.6.4
+`2020-08-15`
+- Update remote extension badge icon color
+- Update Find option color
+- Update debug view colors
+
 ## 0.6.3
 `2020-08-13`
 - Update JSDoc comment colors
