@@ -4,7 +4,7 @@
 [![Issues](https://img.shields.io/github/issues/enkia/tokyo-night-vscode-theme)](https://github.com/enkia/tokyo-night-vscode-theme/issues)
 <br><br>A clean, dark (and now light) Visual Studio Code theme that celebrates the lights of Downtown [Tokyo at night.](https://www.google.com/search?q=tokyo+night&newwindow=1&sxsrf=ACYBGNRiOGCstG_Xohb8CgG5UGwBRpMIQg:1571032079139&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiayIfIhpvlAhUGmuAKHbfRDaIQ_AUIEigB&biw=1280&bih=666&dpr=2) 
 <br><br>**Note:** Many UI elements are intentionally low contrast so as not to distract. I can provide [customization settings](https://code.visualstudio.com/api/references/theme-color) similar to what is shown below to anyone who needs specific text brightened. 
-<br><br>**Visual Studio Code 1.48.1 change to console.log:** They [removed the special text mate rule for console.log](https://github.com/microsoft/vscode/issues/104616#issuecomment-675066291) so there is currently no way to distinguish it from a regular object / method.
+<br><br>**Visual Studio Code 1.48.1 change to console.log:** They [removed the special text mate rule for console.log](https://github.com/microsoft/vscode/issues/104616#issuecomment-675066291) so there is currently no way to distinguish it from a regular object / method aside from using eslint.
 <br><br>**Visual Studio Code 1.43.0 change to syntax highlighting:** This theme currently (in my opinion) works best with semantic syntax highlighting turned off. To disable the feature, search for or add this to your settings:
 ```javascript
 "editor.semanticHighlighting.enabled": false
