@@ -1,4 +1,8 @@
 # Release Notes
+## 0.6.6
+`2020-10-16`
+- Add link to Tokyo Night Alfred theme
+
 ## 0.6.5
 `2020-10-16`
 - Update last pinned tab border color
