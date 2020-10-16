@@ -305,6 +305,14 @@
         "gitDecoration.stageDeletedResourceForeground": "#914c54",
         "gitDecoration.stageModifiedResourceForeground": "#6183bb",
 
+        "charts.red": "#f7768e",
+        "charts.blue": "#7aa2f7",
+        "charts.yellow": "#e0af68",
+        "charts.orange": "#ff9e64",
+        "charts.green": "#41a6b5",
+        "charts.purple": "#9d7cd8",
+        "charts.foreground": "#9AA5CE",
+        "charts.lines": "#16161e",
 
         "merge.currentHeaderBackground": "#007a75aa",
         "merge.currentContentBackground": "#007a7544",
