@@ -1,4 +1,11 @@
 # Release Notes
+## 0.6.5
+`2020-10-16`
+- Update last pinned tab border color
+- Update git staged deleted and modified colors
+- Update chart colors
+
+
 ## 0.6.4
 `2020-08-15`
 - Update remote extension badge icon color
