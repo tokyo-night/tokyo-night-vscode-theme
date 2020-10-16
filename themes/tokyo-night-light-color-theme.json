@@ -306,6 +306,8 @@
         "gitDecoration.deletedResourceForeground": "#914c54",
         "gitDecoration.untrackedResourceForeground": "#166775",
         "gitDecoration.conflictingResourceForeground": "#bb7a61",
+        "gitDecoration.stageDeletedResourceForeground": "#914c54",
+        "gitDecoration.stageModifiedResourceForeground": "#34548a",
 
         "merge.currentHeaderBackground": "#007a75aa",
         "merge.currentContentBackground": "#007a7544",
