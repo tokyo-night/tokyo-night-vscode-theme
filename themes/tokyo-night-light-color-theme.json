@@ -613,13 +613,19 @@
         },
         {
             "name": "Tag",
-            "scope": [
-                "entity.name.tag",
-                "entity.name.tag support.class.component",
-                "meta.tag"
-            ],
+            "scope": "entity.name.tag",
             "settings": {
                 "foreground": "#8c4351"
+            }
+        },
+        {
+            "name": "Tag Component",
+            "scope": [
+                "entity.name.tag support.class.component",
+                 "meta.tag"
+            ],
+            "settings": {
+                "foreground": "#69323d"
             }
         },
         {

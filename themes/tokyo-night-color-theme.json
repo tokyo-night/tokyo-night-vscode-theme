@@ -595,13 +595,19 @@
         },
         {
             "name": "Tag",
-            "scope": [
-                "entity.name.tag",
-                "entity.name.tag support.class.component",
-                "meta.tag"
-            ],
+            "scope": "entity.name.tag",
             "settings": {
                 "foreground": "#f7768e"
+            }
+        },
+        {
+            "name": "Tag Component",
+            "scope": [
+                "entity.name.tag support.class.component",
+                 "meta.tag"
+            ],
+            "settings": {
+                "foreground": "#de5971"
             }
         },
         {

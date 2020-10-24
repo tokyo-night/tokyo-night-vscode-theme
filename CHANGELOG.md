@@ -1,4 +1,9 @@
 # Release Notes
+## 0.6.7
+`2020-10-24`
+- Update component tag color
+- Added Duckduckgo porting (Thanks to [Grafikart](https://github.com/Grafikart))
+
 ## 0.6.6
 `2020-10-16`
 - Add link to Tokyo Night Alfred theme
