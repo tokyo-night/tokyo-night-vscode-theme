@@ -1,4 +1,8 @@
 # Release Notes
+## 0.6.9
+`2021-01-01`
+- Update README
+
 ## 0.6.8
 `2021-01-01`
 - Added Kitty port (Thanks to [davidmathers](https://github.com/davidmathers))
