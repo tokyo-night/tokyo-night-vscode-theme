@@ -1,4 +1,9 @@
 # Release Notes
+## 0.6.8
+`2021-01-01`
+- Added Kitty port (Thanks to [davidmathers](https://github.com/davidmathers))
+- Added JetBrains port (Thanks to [Grafikart](https://github.com/Grafikart))
+
 ## 0.6.7
 `2020-10-24`
 - Update component tag color
