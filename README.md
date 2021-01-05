@@ -86,11 +86,11 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **kitty terminal**  
 [Tokyo Night kitty theme](https://github.com/davidmathers/tokyo-night-kitty-theme) is a color scheme for [kitty](https://sw.kovidgoyal.net/kitty/).
 
-**VIM\Neovim**
+**VIM\Neovim**  
 [tokyonight.vim](https://github.com/ghifarit53/tokyonight-vim), a [VIM](https://www.vim.org/)/[Neovim](https://neovim.io/) color scheme.  
 This theme also has support for [lightline](https://github.com/itchyny/lightline.vim) as well as [airline](https://github.com/vim-airline/vim-airline).
 
-**Alacritty Terminal**
+**Alacritty Terminal**  
 [Tokyo Night Alacritty Theme](https://github.com/zatchheems/tokyo-night-alacritty-theme), a color scheme for [Alacritty Terminal Emulator](https://github.com/alacritty/alacritty)
 
 <br><br>
