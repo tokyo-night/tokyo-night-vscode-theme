@@ -86,6 +86,9 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **kitty terminal**  
 [Tokyo Night kitty theme](https://github.com/davidmathers/tokyo-night-kitty-theme) is a color scheme for [kitty](https://sw.kovidgoyal.net/kitty/).
 
+**Hyper terminal**  
+[hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night), a theme for [Hyper](https://hyper.is/).
+
 <br><br>
 **Enjoy!**
 
