@@ -72,6 +72,9 @@
         "list.dropBackground": "#c1c2c7",
         "list.deemphasizedForeground":"#4c505e",
         "list.activeSelectionBackground": "#d5d6db",
+
+        "quickInput.list.focusBackground": "#d5d6db",
+
         "list.activeSelectionForeground": "#4c505e",
         "list.inactiveSelectionBackground": "#d5d6db",
         "list.inactiveSelectionForeground": "#4c505e",

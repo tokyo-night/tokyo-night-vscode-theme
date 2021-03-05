@@ -1,4 +1,8 @@
 # Release Notes
+## 0.7.0
+`2021-03-04`
+- Add quickInput.list.focusBackground
+
 ## 0.6.9
 `2021-01-01`
 - Update README
