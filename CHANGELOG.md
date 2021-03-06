@@ -1,3 +1,7 @@
+## 0.7.1
+`2021-03-05`
+- Update README (Add mention of contributors)
+
 # Release Notes
 ## 0.7.0
 `2021-03-04`
