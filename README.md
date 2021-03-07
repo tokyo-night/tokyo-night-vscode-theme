@@ -95,10 +95,10 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 This theme also has support for [lightline](https://github.com/itchyny/lightline.vim) as well as [airline](https://github.com/vim-airline/vim-airline).
 
 **Alacritty Terminal**  
-[Tokyo Night Alacritty Theme](https://github.com/zatchheems/tokyo-night-alacritty-theme), a color scheme for [Alacritty Terminal Emulator](https://github.com/alacritty/alacritty)
+[Tokyo Night Alacritty Theme](https://github.com/zatchheems/tokyo-night-alacritty-theme), a color scheme for [Alacritty Terminal Emulator](https://github.com/alacritty/alacritty) (by [mhyfritz](https://github.com/mhyfritz))
 
 **Hyper terminal**  
-[hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night), a theme for [Hyper](https://hyper.is/).
+[hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night), a theme for [Hyper](https://hyper.is/) (by [fitrh](https://github.com/fitrh))
 
 <br><br>
 **Enjoy!**

@@ -1,3 +1,7 @@
+## 0.7.2
+`2021-03-06`
+- Update README (Add mention of Alacritty and Hyper contributors)
+
 ## 0.7.1
 `2021-03-05`
 - Update README (Add mention of contributors)
