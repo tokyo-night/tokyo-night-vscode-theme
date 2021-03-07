@@ -97,6 +97,9 @@ This theme also has support for [lightline](https://github.com/itchyny/lightline
 **Alacritty Terminal**  
 [Tokyo Night Alacritty Theme](https://github.com/zatchheems/tokyo-night-alacritty-theme), a color scheme for [Alacritty Terminal Emulator](https://github.com/alacritty/alacritty)
 
+**Hyper terminal**  
+[hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night), a theme for [Hyper](https://hyper.is/).
+
 <br><br>
 **Enjoy!**
 
