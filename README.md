@@ -3,12 +3,8 @@
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/enkia.tokyo-night.svg)](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 [![Issues](https://img.shields.io/github/issues/enkia/tokyo-night-vscode-theme)](https://github.com/enkia/tokyo-night-vscode-theme/issues)
 <br><br>A clean, dark (and now light) Visual Studio Code theme that celebrates the lights of Downtown [Tokyo at night.](https://www.google.com/search?q=tokyo+night&newwindow=1&sxsrf=ACYBGNRiOGCstG_Xohb8CgG5UGwBRpMIQg:1571032079139&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiayIfIhpvlAhUGmuAKHbfRDaIQ_AUIEigB&biw=1280&bih=666&dpr=2) 
-<br><br>**Note:** Many UI elements are intentionally low contrast so as not to distract. I can provide [customization settings](https://code.visualstudio.com/api/references/theme-color) similar to what is shown below to anyone who needs specific text brightened. 
-<br><br>**Visual Studio Code 1.48.1 change to console.log:** They [removed the special text mate rule for console.log](https://github.com/microsoft/vscode/issues/104616#issuecomment-675066291) so there is currently no way to distinguish it from a regular object / method aside from using eslint.
-<br><br>**Visual Studio Code 1.43.0 change to syntax highlighting:** This theme currently (in my opinion) works best with semantic syntax highlighting turned off. To disable the feature, search for or add this to your settings:
-```javascript
-"editor.semanticHighlighting.enabled": false
-```
+<br><br>**Note:** Many UI elements are intentionally low contrast so as not to distract. I can provide [customization settings](https://code.visualstudio.com/api/references/theme-color) similar to what is shown further down this page to anyone who needs specific text brightened. 
+<br><br>**Semantic Highlighting:** If you prefer all variables inside functions to be the same color, disable semantic highlighting in settings. Otherwise, parameters used will be dimmer in color. [Submit an issue](https://github.com/enkia/tokyo-night-vscode-theme/issues/new) if you notice anything 'off' with semantic high lighting as I've just recently provided support for it.
 
 ## Screenshots
 Tokyo Night
@@ -45,8 +41,8 @@ Paste this into your [settings.json](https://code.visualstudio.com/docs/getstart
     }
 }
 ```
-
-## Brightening Codelens text
+## Customization Settings Examples
+#### Brightening Codelens text
 I prefer my Codelens text fade into the background unless hovered over, but if you'd like a higher contrast, add this to your settings.json:
 ```javascript
 "workbench.colorCustomizations": {
@@ -56,7 +52,7 @@ I prefer my Codelens text fade into the background unless hovered over, but if y
 }
 ```
 
-## Window Active and Inactive borders (vscode 1.40.0)
+#### Window Active and Inactive borders (vscode 1.40.0)
 macOS dark-mode doesn't play well with these two theme mods so I've chosen to darken them as much as I can to fix the gray border issue on my side. Set them however you like using:
 ```javascript
 "workbench.colorCustomizations": {
@@ -67,6 +63,45 @@ macOS dark-mode doesn't play well with these two theme mods so I've chosen to da
 }
 ```
 
+## Color Palette
+#### Tokyo Night and Tokyo Night Storm
+| Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
+| ---------- | ------------------------------------------------------------ |
+| ![#f7768e](https://placehold.it/15/f7768e/000000?text=+) `#f7768e` | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
+| ![#ff9e64](https://placehold.it/15/ff9e64/000000?text=+) `#ff9e64` | Number and Boolean constants, Language support constants |
+| ![#e0af68](https://placehold.it/15/e0af68/000000?text=+) `#e0af68` | Function parameters, Regex character sets, Terminal Yellow |
+| ![#9ece6a](https://placehold.it/15/9ece6a/000000?text=+) `#9ece6a` | Strings, CSS class names |
+| ![#73daca](https://placehold.it/15/73daca/000000?text=+) `#73daca` | Object literal keys, Markdown links, Terminal Green |
+| ![#b4f9f8](https://placehold.it/15/b4f9f8/000000?text=+) `#b4f9f8` | Regex literal strings |
+| ![#2ac3de](https://placehold.it/15/2ac3de/000000?text=+) `#2ac3de` | Language support functions, CSS HTML elements |
+| ![#7dcfff](https://placehold.it/15/7dcfff/000000?text=+) `#7dcfff` | Object properties, Regex quantifiers and flags, Markdown headings, Terminal Cyan, Markdown code, Import/export keywords |
+| ![#7aa2f7](https://placehold.it/15/7aa2f7/000000?text=+) `#7aa2f7` | Function names, CSS property names, Terminal Blue |
+| ![#bb9af7](https://placehold.it/15/bb9af7/000000?text=+) `#bb9af7` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
+| ![#c0caf5](https://placehold.it/15/c0caf5/000000?text=+) `#c0caf5` | Variables, Class names, Terminal White |
+| ![#a9b1d6](https://placehold.it/15/a9b1d6/000000?text=+) `#a9b1d6` | Editor Foreground |
+| ![#9aa5ce](https://placehold.it/15/9aa5ce/000000?text=+) `#9aa5ce` | Markdown Text, HTML Text, Parameters inside functions (semantic highlighting only) |
+| ![#565f89](https://placehold.it/15/565f89/000000?text=+) `#565f89` | Comments |
+| ![#414868](https://placehold.it/15/414868/000000?text=+) `#414868` | Terminal Black |
+| ![#24283b](https://placehold.it/15/24283b/000000?text=+) `#24283b` | Editor Background (Storm) |
+| ![#1a1b26](https://placehold.it/15/1a1b26/000000?text=+) `#1a1b26` | Editor Background (Night) |
+
+#### Tokyo Night Light
+| Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
+| ---------- | ------------------------------------------------------------ |
+| ![#8c4351](https://placehold.it/15/8c4351/000000?text=+) `#8c4351` | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
+| ![#965027](https://placehold.it/15/965027/000000?text=+) `#965027` | Number and Boolean constants, Language support constants |
+| ![#8f5e15](https://placehold.it/15/8f5e15/000000?text=+) `#8f5e15` | Function parameters, Regex character sets, Terminal Yellow |
+| ![#485e30](https://placehold.it/15/485e30/000000?text=+) `#485e30` | Strings, CSS class names |
+| ![#33635c](https://placehold.it/15/33635c/000000?text=+) `#33635c` | Object literal keys, Markdown links, Regex literal strings, Terminal Green |
+| ![#166775](https://placehold.it/15/166775/000000?text=+) `#166775` | Language support functions, CSS HTML elements |
+| ![#0f4b6e](https://placehold.it/15/0f4b6e/000000?text=+) `#0f4b6e` | Object properties, Regex quantifiers and flags, Terminal Cyan, Markdown code, Import/export keywords |
+| ![#34548a](https://placehold.it/15/34548a/000000?text=+) `#34548a` | Function names, CSS property names, Markdown Headings, Terminal Blue |
+| ![#5a4a78](https://placehold.it/15/5a4a78/000000?text=+) `#5a4a78` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
+| ![#343b58](https://placehold.it/15/343b58/000000?text=+) `#343b58` | Editor Foreground, Variables, Class names, Terminal White |
+| ![#565a6e](https://placehold.it/15/565a6e/000000?text=+) `#565a6e` | Markdown Text, HTML Text, Parameters used inside functions (semantic highlighting only) |
+| ![#0f0f14](https://placehold.it/15/0f0f14/000000?text=+) `#0f0f14` | Terminal Black |
+| ![#9699a3](https://placehold.it/15/9699a3/000000?text=+) `#9699a3` | Comments |
+| ![#d5d6db](https://placehold.it/15/d5d6db/000000?text=+) `#d5d6db` | Editor Background |
 
 ## Other portings
 **iTerm**  
