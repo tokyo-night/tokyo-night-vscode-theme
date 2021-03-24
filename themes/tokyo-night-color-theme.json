@@ -3,6 +3,21 @@
     "author": "Enkia",
     "maintainers": ["Enkia <enki77@gmail.com>"],
     "type": "dark",
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+        "parameter.declaration": {
+            "foreground": "#e0af68"
+        },
+        "parameter": {
+            "foreground": "#9aa5ce"
+        },
+        "variable.declaration": {
+            "foreground": "#bb9af7"
+        },
+        "variable": {
+            "foreground": "#c0caf5"
+        }
+    },
     "semanticClass": "tokyo-night",
     "colors": {
         "foreground": "#787c99",
