@@ -1,4 +1,10 @@
 # Release Notes
+## 0.7.4
+`2021-03-24`
+- Update README to include Color Palettes
+- Add semantic highlighting support (Parameters used in functions will be dimmer in color. Set semantic highlighting to false in settings if not ideal.)
+- Brighten word selection background slightly
+
 ## 0.7.3
 `2021-03-23`
 - Italicize return keyword in more languages (see README to disable this)
