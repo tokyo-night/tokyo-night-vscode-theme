@@ -31,6 +31,7 @@ Paste this into your [settings.json](https://code.visualstudio.com/docs/getstart
                 "comment",
                 "meta.var.expr storage.type",
                 "keyword.control.flow",
+                "keyword.control.return",
                 "meta.directive.vue punctuation.separator.key-value.html",
                 "meta.directive.vue entity.other.attribute-name.html",
                 "tag.decorator.js entity.name.tag.js",
