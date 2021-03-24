@@ -77,8 +77,6 @@
         "list.deemphasizedForeground": "#7982a9",
         "list.activeSelectionBackground": "#2c324a",
 
-        "quickInput.list.focusBackground": "#2c324a",
-
         "list.activeSelectionForeground": "#a9b1d6",
         "list.inactiveSelectionBackground": "#292e42",
         "list.inactiveSelectionForeground": "#a9b1d6",
@@ -358,6 +356,13 @@
             ],
             "settings": {
                 "fontStyle": "italic"
+            }
+        },
+        {
+        "name": "Fix YAML block scalar",
+            "scope": "keyword.control.flow.block-scalar.literal",
+            "settings": {
+                "fontStyle": ""
             }
         },
 		{
