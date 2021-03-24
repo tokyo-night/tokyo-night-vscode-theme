@@ -130,16 +130,16 @@
 
         "editor.findRangeHighlightBackground": "#515c7e33",
         "editor.rangeHighlightBackground": "#515c7e20",
-        "editor.wordHighlightBackground": "#515c7e33",
-        "editor.wordHighlightStrongBackground": "#515c7e44",
-        "editor.selectionHighlightBackground": "#515c7e28",
+        "editor.wordHighlightBackground": "#515c7e44",
+        "editor.wordHighlightStrongBackground": "#515c7e55",
+        "editor.selectionHighlightBackground": "#515c7e44",
 
         "editorCursor.foreground": "#c0caf5",
-        "editorIndentGuide.background": "#1e202e", //"#1e202e",
+        "editorIndentGuide.background": "#1e202e",
         "editorIndentGuide.activeBackground": "#363b54",
         "editorLineNumber.foreground": "#363b54",
         "editorLineNumber.activeForeground": "#737aa2",
-        "editor.lineHighlightBackground": "#1e202e", //"#1e202e",
+        "editor.lineHighlightBackground": "#1e202e",
         "editorWhitespace.foreground": "#363b54",
 
         "editorMarkerNavigation.background": "#16161e",

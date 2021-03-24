@@ -127,8 +127,8 @@
         "editor.findRangeHighlightBackground": "#34548a15",
         "editor.rangeHighlightBackground": "#fafbff20",
         "editor.wordHighlightBackground": "#fafbff33",
-        "editor.wordHighlightStrongBackground": "#fafbff44",
-        "editor.selectionHighlightBackground": "#fafbff22",
+        "editor.wordHighlightStrongBackground": "#fafbff66",
+        "editor.selectionHighlightBackground": "#fafbff55",
 
         "editorCursor.foreground": "#4c505e",
         "editorIndentGuide.background": "#cacbcf",
