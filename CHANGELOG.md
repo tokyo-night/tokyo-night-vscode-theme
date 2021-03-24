@@ -1,3 +1,9 @@
+# Release Notes
+## 0.7.3
+`2021-03-23`
+- Italicize return keyword in more languages (see README to disable this)
+- Remove italics from YAML block scalar symbol
+
 ## 0.7.2
 `2021-03-06`
 - Update README (Add mention of Alacritty and Hyper contributors)
