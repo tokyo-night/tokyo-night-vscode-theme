@@ -1,4 +1,8 @@
 # Release Notes
+## 0.7.5
+`2021-03-31`
+- Update README (Color Palette, Spelling)
+
 ## 0.7.4
 `2021-03-24`
 - Update README to include Color Palettes
