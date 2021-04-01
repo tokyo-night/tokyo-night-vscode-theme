@@ -11,6 +11,9 @@
         "parameter": {
             "foreground": "#565a6e"
         },
+        "property.declaration": {
+            "foreground": "#33635c"
+        },
         "variable.declaration": {
             "foreground": "#5a4a78"
         },

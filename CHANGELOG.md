@@ -1,4 +1,8 @@
 # Release Notes
+## 0.7.7
+`2021-04-01`
+- Fix property declaration semantic token color
+
 ## 0.7.6
 `2021-03-31`
 - Update README (Color Palette)
