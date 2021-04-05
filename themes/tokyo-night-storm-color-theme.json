@@ -16,6 +16,12 @@
         "property.defaultLibrary": {
             "foreground": "#2ac3de"
         },
+        "*.defaultLibrary": {
+            "foreground": "#2ac3de"
+        },
+        "variable.defaultLibrary": {
+            "foreground": "#2ac3de"
+        },
         "variable.declaration": {
             "foreground": "#bb9af7"
         },
