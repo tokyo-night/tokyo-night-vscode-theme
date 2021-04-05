@@ -1,4 +1,11 @@
 # Release Notes
+## 0.7.9
+`2021-04-05`
+- Revert turning on semantic highlighting by default
+- Update paramter semantic token color
+- Update defaultLibrary semantic token colors
+- Add added and rename git resource colors
+
 ## 0.7.8
 `2021-04-04`
 - Update property defaultLibrary semantic token color
