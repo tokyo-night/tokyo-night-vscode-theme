@@ -3,7 +3,6 @@
     "author": "Enkia",
     "maintainers": ["Enkia <enki77@gmail.com>"],
     "type": "dark",
-    "semanticHighlighting": true,
     "semanticTokenColors": {
         "parameter.declaration": {
             "foreground": "#8f5e15"
