@@ -79,7 +79,8 @@ macOS dark-mode doesn't play well with these two theme mods so I've chosen to da
 | ![#bb9af7](https://via.placeholder.com/15/bb9af7/bb9af7?text=+) `#bb9af7` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
 | ![#c0caf5](https://via.placeholder.com/15/c0caf5/c0caf5?text=+) `#c0caf5` | Variables, Class names, Terminal White |
 | ![#a9b1d6](https://via.placeholder.com/15/a9b1d6/a9b1d6?text=+) `#a9b1d6` | Editor Foreground |
-| ![#9aa5ce](https://via.placeholder.com/15/9aa5ce/9aa5ce?text=+) `#9aa5ce` | Markdown Text, HTML Text, Parameters inside functions (semantic highlighting only) |
+| ![#9aa5ce](https://via.placeholder.com/15/9aa5ce/9aa5ce?text=+) `#9aa5ce` | Markdown Text, HTML Text |
+| ![#cfc9c2](https://via.placeholder.com/15/cfc9c2/cfc9c2?text=+) `#cfc9c2` | Parameters inside functions (semantic highlighting only) |
 | ![#565f89](https://via.placeholder.com/15/565f89/565f89?text=+) `#565f89` | Comments |
 | ![#414868](https://via.placeholder.com/15/414868/414868?text=+) `#414868` | Terminal Black |
 | ![#24283b](https://via.placeholder.com/15/24283b/24283b?text=+) `#24283b` | Editor Background (Storm) |
@@ -98,7 +99,8 @@ macOS dark-mode doesn't play well with these two theme mods so I've chosen to da
 | ![#34548a](https://via.placeholder.com/15/34548a/34548a?text=+) `#34548a` | Function names, CSS property names, Markdown Headings, Terminal Blue |
 | ![#5a4a78](https://via.placeholder.com/15/5a4a78/5a4a78?text=+) `#5a4a78` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
 | ![#343b58](https://via.placeholder.com/15/343b58/343b58?text=+) `#343b58` | Editor Foreground, Variables, Class names, Terminal White |
-| ![#565a6e](https://via.placeholder.com/15/565a6e/565a6e?text=+) `#565a6e` | Markdown Text, HTML Text, Parameters used inside functions (semantic highlighting only) |
+| ![#565a6e](https://via.placeholder.com/15/565a6e/565a6e?text=+) `#565a6e` | Markdown Text, HTML Text |
+| ![#634f30](https://via.placeholder.com/15/634f30/634f30?text=+) `#634f30` | Parameters inside functions (semantic highlighting only) |
 | ![#0f0f14](https://via.placeholder.com/15/0f0f14/f0f14?text=+) `#0f0f14` | Terminal Black |
 | ![#9699a3](https://via.placeholder.com/15/9699a3/9699a3?text=+) `#9699a3` | Comments |
 | ![#d5d6db](https://via.placeholder.com/15/d5d6db/5d6db?text=+) `#d5d6db` | Editor Background |
