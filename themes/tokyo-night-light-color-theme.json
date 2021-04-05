@@ -14,6 +14,9 @@
         "property.declaration": {
             "foreground": "#33635c"
         },
+        "property.defaultLibrary": {
+            "foreground": "#166775"
+        },
         "variable.declaration": {
             "foreground": "#5a4a78"
         },

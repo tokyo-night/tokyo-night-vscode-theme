@@ -1,4 +1,8 @@
 # Release Notes
+## 0.7.8
+`2021-04-04`
+- Update property defaultLibrary semantic token color
+
 ## 0.7.7
 `2021-04-01`
 - Fix property declaration semantic token color
