@@ -717,7 +717,7 @@
                 "meta.function-call variable.other.object.property"
             ],
             "settings": {
-                "foreground": "#7dcfff"
+                "foreground": "#6fc7e3"
             }
         },
         {
@@ -758,7 +758,7 @@
                 "storage.type.cs"
             ],
             "settings": {
-                "foreground": "#7aa2f7"
+                "foreground": "#ff9e64"
             }
         },
         {
@@ -772,7 +772,7 @@
                 "meta.object-literal entity.name.function"
             ],
             "settings": {
-                "foreground": "#7aa2f7"
+                "foreground": "#74beeb"
             }
         },
         {
@@ -837,21 +837,21 @@
                 "meta.import.qualifier"
             ],
             "settings": {
-                "foreground": "#0db9d7"
+                "foreground": "#dfa148"
             }
         },
         {
             "name": "Class Name",
             "scope": "entity.name",
             "settings": {
-                "foreground": "#c0caf5"
+                "foreground": "#dfa148"
             }
         },
         {
             "name": "Support Function",
             "scope": "support.function",
             "settings": {
-                "foreground": "#0db9d7"
+                "foreground": "#74beeb"
             }
         },
         {
