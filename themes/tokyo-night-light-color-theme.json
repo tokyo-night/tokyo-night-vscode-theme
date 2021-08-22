@@ -308,7 +308,7 @@
 
         "terminal.background": "#cbccd1",
         "terminal.foreground": "#4c505e",
-        "terminal.selectionBackground": "#d5d6db20",
+        "terminal.selectionBackground": "#d5d6db",
         "terminalCursor.foreground": "#828594",
 
         "terminal.ansiBlack": "#0f0f14",
