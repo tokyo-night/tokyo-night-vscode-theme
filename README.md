@@ -129,8 +129,13 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 (by [davidmathers](https://github.com/davidmathers))
 
 **VIM/Neovim**  
-[tokyonight.vim](https://github.com/ghifarit53/tokyonight-vim), a [VIM](https://www.vim.org/)/[Neovim](https://neovim.io/) color scheme.  
-This theme also has support for [lightline](https://github.com/itchyny/lightline.vim) as well as [airline](https://github.com/vim-airline/vim-airline).
+- [tokyonight.vim](https://github.com/ghifarit53/tokyonight-vim), a [VIM](https://www.vim.org/)/[Neovim](https://neovim.io/) color scheme.
+
+  This theme also has support for [lightline](https://github.com/itchyny/lightline.vim) as well as [airline](https://github.com/vim-airline/vim-airline).
+
+- [tokyonight.nvim](https://github.com/folke/tokyonight.nvim), a [Neovim](https://neovim.io/) color scheme.
+
+  This theme also has support for many Vim plugins and [other programs](https://github.com/folke/tokyonight.nvim/tree/main/extras) such as Alacritty, Fish and Kitty.
 
 **Alacritty Terminal**  
 [Tokyo Night Alacritty Theme](https://github.com/zatchheems/tokyo-night-alacritty-theme), a color scheme for [Alacritty Terminal Emulator](https://github.com/alacritty/alacritty) (by [mhyfritz](https://github.com/mhyfritz))
