@@ -1,4 +1,8 @@
 # Release Notes
+## 0.8.2
+`2021-11-16`
+- Added folded code regions background color
+- Added bracket pair colorization theme colors
 
 ## 0.8.1
 `2021-11-16`
