@@ -1,4 +1,8 @@
 # Release Notes
+## 0.8.0
+`2021-11-16`
+- Fix terminal selection background color in light theme
+
 ## 0.7.9
 `2021-04-05`
 - Revert turning on semantic highlighting by default
