@@ -1,4 +1,11 @@
 # Release Notes
+
+## 0.8.1
+`2021-11-16`
+- Added a new Neovim port (Thanks to [folke](https://github.com/folke))
+- Added Insomnia port (Thanks to [arturoeh](https://github.com/arturoeh))
+- Added Windows Terminal port (Thanks to [g-e-o-m-e-t-r-i-c](https://github.com/g-e-o-m-e-t-r-i-c))
+
 ## 0.8.0
 `2021-11-16`
 - Fix terminal selection background color in light theme

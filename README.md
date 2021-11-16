@@ -129,13 +129,9 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 (by [davidmathers](https://github.com/davidmathers))
 
 **VIM/Neovim**  
-- [tokyonight.vim](https://github.com/ghifarit53/tokyonight-vim), a [VIM](https://www.vim.org/)/[Neovim](https://neovim.io/) color scheme.
+- [tokyonight.vim](https://github.com/ghifarit53/tokyonight-vim), a [VIM](https://www.vim.org/)/[Neovim](https://neovim.io/) color scheme. This theme also has support for [lightline](https://github.com/itchyny/lightline.vim) as well as [airline](https://github.com/vim-airline/vim-airline) (by [ghifarit53](https://github.com/ghifarit53/))
 
-  This theme also has support for [lightline](https://github.com/itchyny/lightline.vim) as well as [airline](https://github.com/vim-airline/vim-airline).
-
-- [tokyonight.nvim](https://github.com/folke/tokyonight.nvim), a [Neovim](https://neovim.io/) color scheme.
-
-  This theme also has support for many Vim plugins and [other programs](https://github.com/folke/tokyonight.nvim/tree/main/extras) such as Alacritty, Fish and Kitty.
+- [tokyonight.nvim](https://github.com/folke/tokyonight.nvim), a [Neovim](https://neovim.io/) color scheme. This theme also has support for many Vim plugins and [other programs](https://github.com/folke/tokyonight.nvim/tree/main/extras) such as Alacritty, Fish and Kitty. (by [folke](https://github.com/folke))
 
 **Alacritty Terminal**  
 [Tokyo Night Alacritty Theme](https://github.com/zatchheems/tokyo-night-alacritty-theme), a color scheme for [Alacritty Terminal Emulator](https://github.com/alacritty/alacritty) (by [mhyfritz](https://github.com/mhyfritz))
@@ -143,8 +139,12 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **Hyper terminal**  
 [hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night), a theme for [Hyper](https://hyper.is/) (by [fitrh](https://github.com/fitrh))
 
+**Windows Terminal**    
+[tokyonight-windows-terminal](https://github.com/g-e-o-m-e-t-r-i-c/tokyonight-windows-terminal), a theme for [Windows Terminal](https://github.com/microsoft/terminal) (by [g-e-o-m-e-t-r-i-c](https://github.com/g-e-o-m-e-t-r-i-c))
+
 **Insomnia**  
 [Tokyo Night](https://github.com/arturoeh/tokyo-night-insomnia) theme for [Insomnia](https://insomnia.rest/) (by [arturoeh](https://github.com/arturoeh))
+
 
 <br><br>
 **Enjoy!**
