@@ -138,6 +138,9 @@ This theme also has support for [lightline](https://github.com/itchyny/lightline
 **Hyper terminal**  
 [hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night), a theme for [Hyper](https://hyper.is/) (by [fitrh](https://github.com/fitrh))
 
+**Insomnia**  
+[Tokyo Night](https://github.com/arturoeh/tokyo-night-insomnia) theme for [Insomnia](https://insomnia.rest/) (by [arturoeh](https://github.com/arturoeh))
+
 <br><br>
 **Enjoy!**
 
