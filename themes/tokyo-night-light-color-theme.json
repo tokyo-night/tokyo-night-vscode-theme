@@ -44,6 +44,7 @@
         "settings.headerForeground": "#34548a",
         "window.activeBorder": "#cdced1",
         "window.inactiveBorder":"#cdced1",
+        "sash.hoverBorder": "#828594",
 
         "extensionButton.prominentBackground": "#34548aDD",
         "extensionButton.prominentHoverBackground": "#34548aAA",

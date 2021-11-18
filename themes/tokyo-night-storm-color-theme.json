@@ -44,6 +44,7 @@
         "settings.headerForeground": "#6183bb",
         "window.activeBorder": "#0d0f17",
         "window.inactiveBorder":"#0d0f17",
+        "sash.hoverBorder": "#29355a",
 
         "welcomePage.buttonBackground": "#1b1e2e",
         "welcomePage.buttonHoverBackground": "#1b1e2eaa",
