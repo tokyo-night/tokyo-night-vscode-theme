@@ -40,7 +40,6 @@
         "badge.background": "#979db833",
         "badge.foreground": "#4c505e",
         "icon.foreground": "#4c505e",
-        "imagePreview.border": "#4c505e33",
         "settings.headerForeground": "#34548a",
         "window.activeBorder": "#cdced1",
         "window.inactiveBorder":"#cdced1",
