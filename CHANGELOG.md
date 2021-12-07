@@ -1,4 +1,11 @@
 # Release Notes
+## 0.8.3
+`2021-12-06`
+- Fix selection color in folded regions
+- Remove unused customizations
+- Update theme description
+- Add sash hover border color
+
 ## 0.8.2
 `2021-11-16`
 - Added folded code regions background color
