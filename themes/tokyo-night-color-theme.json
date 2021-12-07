@@ -142,7 +142,7 @@
         "selection.background": "#515c7e40",
         "editor.background": "#1a1b26",
         "editor.foreground": "#a9b1d6",
-        "editor.foldBackground": "#16161e",
+        "editor.foldBackground": "#1111174a",
         "editorLink.activeForeground": "#acb0d0",
 
         "editor.selectionBackground": "#515c7e40",
