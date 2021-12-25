@@ -1,4 +1,8 @@
 # Release Notes
+## 0.8.4
+`2021-12-24`
+- Add Preview in vscode.dev badge
+
 ## 0.8.3
 `2021-12-06`
 - Fix selection color in folded regions
