@@ -147,6 +147,7 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 [Tokyo Night](https://github.com/arturoeh/tokyo-night-insomnia) theme for [Insomnia](https://insomnia.rest/) (by [arturoeh](https://github.com/arturoeh))
 
 **Visual Studio 2022**
+
 [tokyo-night-visual-studio-theme](https://github.com/m1chaelbarry/tokyo-night-visual-studio-theme) for Visual Studio 2022 (by [m1chaelbarry](https://github.com/m1chaelbarry))
 
 <br><br>
