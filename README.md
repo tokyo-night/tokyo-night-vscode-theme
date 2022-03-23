@@ -122,8 +122,9 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 (by [Grafikart](https://github.com/Grafikart))
 
 **JetBrains IDE**  
-[Tokyo Night Color Scheme](https://plugins.jetbrains.com/plugin/15662-tokyo-night-color-scheme) works best with material theme plugin and [this theme](https://github.com/Grafikart/tokyo-night-jetbrains-theme/blob/main/tokyonight.xml)
+- [Tokyo Night Color Scheme](https://plugins.jetbrains.com/plugin/15662-tokyo-night-color-scheme) works best with material theme plugin and [this theme](https://github.com/Grafikart/tokyo-night-jetbrains-theme/blob/main/tokyonight.xml)
 (by [Grafikart](https://github.com/Grafikart))
+- [TokyoNight Editor & UI Theme](https://plugins.jetbrains.com/plugin/18820-tokyo-night-theme) compatible with material theme, supports 2 dark variants, planned support for day theme.(by [alexadhy](https://github.com/alexadhy))
 
 **Kitty Terminal**  
 [Tokyo Night](https://github.com/davidmathers/tokyo-night-kitty-theme) color scheme for [kitty](https://sw.kovidgoyal.net/kitty/)
