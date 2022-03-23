@@ -144,7 +144,7 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 [tokyonight-windows-terminal](https://github.com/g-e-o-m-e-t-r-i-c/tokyonight-windows-terminal), a theme for [Windows Terminal](https://github.com/microsoft/terminal) (by [g-e-o-m-e-t-r-i-c](https://github.com/g-e-o-m-e-t-r-i-c))
 
 **Insomnia**  
-[Tokyo Night](https://github.com/arturoeh/tokyo-night-insomnia) theme for [Insomnia](https://insomnia.rest/) (by [arturoeh](https://github.com/arturoeh))
+[Tokyo Night](https://github.com/pokedotdev/tokyo-night-insomnia) theme for [Insomnia](https://insomnia.rest/) (by [pokedotdev](https://github.com/pokedotdev))
 
 
 <br><br>
