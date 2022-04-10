@@ -421,6 +421,7 @@
         {
             "name": "Comment Doc",
             "scope": [
+                "keyword.operator.assignment.jsdoc",
                 "comment.block.documentation variable",
                 "comment.block.documentation storage",
                 "comment.block.documentation keyword",
