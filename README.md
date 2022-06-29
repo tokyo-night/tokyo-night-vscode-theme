@@ -116,7 +116,6 @@ macOS dark-mode doesn't play well with these two theme mods so I've chosen to da
 **Alfred**
 Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/puSaeqbft2/)
 
-
 **DuckDuckGo**
 [DuckduckGo theme preferences](https://duckduckgo.com/?kae=d&ks=m&kak=-1&kax=-1&kaq=-1&kap=-1&kao=-1&kau=-1&k5=1&k7=1a1b26&kj=16161e&kx=1abc9c&k21=16161E&k18=-1&ka=e&kaa=BB9AF7&k9=C0CAF5&k8=6183BB&kt=e)
 (by [Grafikart](https://github.com/Grafikart))
@@ -145,6 +144,9 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 
 **Insomnia**  
 [Tokyo Night](https://github.com/pokedotdev/tokyo-night-insomnia) theme for [Insomnia](https://insomnia.rest/) (by [pokedotdev](https://github.com/pokedotdev))
+
+**Visual Studio 2022**  
+[tokyo-night-visual-studio-theme](https://github.com/m1chaelbarry/tokyo-night-visual-studio-theme) for Visual Studio 2022 (by [m1chaelbarry](https://github.com/m1chaelbarry))
 
 **Firefox**  
 [Tokyonight_Vim](https://addons.mozilla.org/en-US/firefox/addon/tokyonight_vim/) theme for Firefox, LibreWolf, etc. (by [Jared Reardon](https://addons.mozilla.org/en-US/firefox/user/14600679/))
