@@ -146,6 +146,8 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **Insomnia**
 [Tokyo Night](https://github.com/arturoeh/tokyo-night-insomnia) theme for [Insomnia](https://insomnia.rest/) (by [arturoeh](https://github.com/arturoeh))
 
+**Firefox**  
+[Tokyonight_Vim](https://addons.mozilla.org/en-US/firefox/addon/tokyonight_vim/) theme for Firefox, LibreWolf, etc. (by [Jared Reardon](https://addons.mozilla.org/en-US/firefox/user/14600679/))
 
 <br><br>
 **Enjoy!**
