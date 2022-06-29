@@ -713,6 +713,7 @@
             "name": "Object Key",
             "scope": [
                 "meta.object-literal.key",
+                "entity.name.type",
                 "string.alias.graphql",
                 "string.unquoted.graphql",
                 "string.unquoted.alias.graphql",
@@ -780,6 +781,7 @@
             "name": "Function Definition",
             "scope": [
                 "entity.name.function",
+                "variable.other.enummember",
                 "meta.function-call",
                 "meta.function-call entity.name.function",
                 "variable.function",
@@ -820,6 +822,8 @@
             "scope": [
                 "meta.definition.variable variable.other.constant",
                 "meta.definition.variable variable.other.readwrite",
+                "variable.declaration.hcl variable.other.readwrite.hcl",
+                "meta.mapping.key.hcl variable.other.readwrite.hcl",
                 "variable.other.declaration"
             ],
             "settings": {

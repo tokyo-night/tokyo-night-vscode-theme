@@ -1,4 +1,8 @@
 # Release Notes
+## 0.8.6
+`2022-06-28`
+- Add preliminary Terraform syntax support
+
 ## 0.8.5
 `2022-06-28`
 - Update comment doc color
