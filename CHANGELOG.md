@@ -1,4 +1,8 @@
 # Release Notes
+## 0.8.7
+`2022-06-29`
+- Debug icons updates
+
 ## 0.8.6
 `2022-06-28`
 - Add preliminary Terraform syntax support

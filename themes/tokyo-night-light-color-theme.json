@@ -321,6 +321,9 @@
         "debugIcon.stepOutForeground": "#3e6396",
         "debugIcon.continueForeground": "#3e6396",
         "debugIcon.stepBackForeground": "#3e6396",
+        "debugIcon.breakpointForeground": "#db4b4b",
+        "debugIcon.breakpointDisabledForeground": "#828594",
+        "debugIcon.breakpointUnverifiedForeground": "#c24242",
 
         "terminal.background": "#cbccd1",
         "terminal.foreground": "#4c505e",

@@ -314,6 +314,10 @@
         "debugTokenExpression.number":"#ff9e64",
         "debugTokenExpression.error":"#bb616b",
 
+        "debugIcon.breakpointForeground": "#db4b4b",
+        "debugIcon.breakpointDisabledForeground": "#414761",
+        "debugIcon.breakpointUnverifiedForeground": "#c24242",
+
         "terminal.background": "#16161e",
         "terminal.foreground": "#787c99",
         "terminal.selectionBackground": "#515c7e30",
