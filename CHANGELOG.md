@@ -1,4 +1,10 @@
 # Release Notes
+## 0.8.5
+`2022-06-28`
+- Update comment doc color
+- Fix embedded literal tags for Volar
+- Update README to include new ports
+
 ## 0.8.4
 `2021-12-24`
 - Add Preview in vscode.dev badge
