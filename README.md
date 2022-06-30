@@ -43,6 +43,38 @@ Paste this into your [settings.json](https://code.visualstudio.com/docs/getstart
 }
 ```
 ## Customization Settings Examples
+#### Higher Contrast Settings
+The below can by no means officially represent high contrast but they may serve as a starting point. This assumes that the darker Tokyo Night version is being used. 
+```javascript
+"workbench.colorCustomizations": {
+    "[Tokyo Night]": {
+        "foreground": "#959cbd",
+        "panelTitle.activeBorder": "#3d59a1",
+        "panelTitle.activeForeground": "#bdc7f0",
+        "panelTitle.inactiveForeground": "#959cbd",
+        "tab.activeForeground": "#bdc7f0",
+        "tab.inactiveForeground": "#959cbd",
+        "breadcrumb.foreground": "#959cbd",
+        "breadcrumb.focusForeground": "#bdc7f0",
+        "breadcrumb.activeSelectionForeground": "#bdc7f0",
+        "statusBar.foreground": "#bdc7f0",
+        "list.focusForeground": "#bdc7f0",
+        "list.hoverForeground": "#bdc7f0",
+        "list.activeSelectionForeground": "#bdc7f0",
+        "list.inactiveSelectionForeground": "#bdc7f0",
+        "list.inactiveSelectionBackground": "#202330",
+        "sideBar.foreground": "#959cbd",
+        "dropdown.foreground": "#959cbd",
+        "menu.foreground":"#bdc7f0",
+        "menubar.selectionForeground":"#bdc7f0",
+        "input.foreground": "#959cbd",
+        "input.placeholderForeground": "#959cbd",
+        "activityBar.foreground": "#bdc7f0",
+        "activityBar.inactiveForeground": "#787c99",
+        "gitDecoration.ignoredResourceForeground": "#696d87",
+    },
+}
+```
 #### Brightening Codelens text
 I prefer my Codelens text fade into the background unless hovered over, but if you'd like a higher contrast, add this to your settings.json:
 ```javascript

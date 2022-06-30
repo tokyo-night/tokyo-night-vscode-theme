@@ -1,4 +1,8 @@
 # Release Notes
+## 0.8.8
+`2022-06-30`
+- Add higher contrast settings example to README
+
 ## 0.8.7
 `2022-06-29`
 - Debug icons updates
