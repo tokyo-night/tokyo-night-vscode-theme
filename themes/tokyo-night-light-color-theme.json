@@ -737,7 +737,7 @@
             "name": "Object Key",
             "scope": [
                 "meta.object-literal.key",
-                "entity.name.type",
+                "entity.name.type.hcl",
                 "string.alias.graphql",
                 "string.unquoted.graphql",
                 "string.unquoted.alias.graphql",
