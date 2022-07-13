@@ -261,9 +261,9 @@
 
         "panel.background": "#1f2335",
         "panel.border": "#1b1e2e",
-        "panelTitle.activeForeground": "#7982a9",
-        "panelTitle.inactiveForeground": "#545c7e",
-        "panelTitle.activeBorder": "#1f2335",
+        "panelTitle.activeForeground": "#a9b1d6",
+        "panelTitle.inactiveForeground": "#7982a9",
+        "panelTitle.activeBorder": "#3d59a1",
         "panelInput.border": "#1f2335",
 
         "statusBar.foreground": "#7982a9",

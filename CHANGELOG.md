@@ -1,4 +1,9 @@
 # Release Notes
+## 0.9.0
+`2022-07-13`
+- Update Storm's panel foreground and active border colors
+- Update Light's panel active border color
+
 ## 0.8.9
 `2022-07-02`
 - Fix syntax color issue introduced in version 0.8.6
