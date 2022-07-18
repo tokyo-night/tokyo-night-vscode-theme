@@ -136,7 +136,7 @@ macOS dark-mode doesn't play well with these two theme mods so I've chosen to da
 | ![#634f30](https://place-hold.it/15/634f30/634f30?text=+) `#634f30` | Parameters inside functions (semantic highlighting only) |
 | ![#0f0f14](https://place-hold.it/15/0f0f14/f0f14?text=+) `#0f0f14` | Terminal Black |
 | ![#9699a3](https://place-hold.it/15/9699a3/9699a3?text=+) `#9699a3` | Comments |
-| ![#d5d6db](https://place-hold.it/15/d5d6db/5d6db?text=+) `#d5d6db` | Editor Background |
+| ![#d5d6db](https://place-hold.it/15/d5d6db/d5d6db?text=+) `#d5d6db` | Editor Background |
 
 ## Other portings
 **iTerm**
