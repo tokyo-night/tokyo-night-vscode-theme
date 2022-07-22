@@ -715,15 +715,9 @@
                 "variable",
                 "support.variable",
                 "string constant.other.placeholder",
-                "variable.parameter.handlebars"
+                "variable.parameter.handlebars",
+                "variable.other.object",
             ],
-            "settings": {
-                "foreground": "#343b58"
-            }
-        },
-        {
-            "name": "Object Variable",
-            "scope": "variable.other.object",
             "settings": {
                 "foreground": "#343b58"
             }
@@ -880,7 +874,8 @@
                 "support.type.object.module",
                 "support.constant.json",
                 "entity.name.namespace",
-                "meta.import.qualifier"
+                "meta.import.qualifier",
+                "variable.other.constant.object"
             ],
             "settings": {
                 "foreground": "#166775"
