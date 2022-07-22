@@ -1,4 +1,8 @@
 # Release Notes
+## 0.9.1
+`2022-07-21`
+- Update editor ghost text color
+  
 ## 0.9.0
 `2022-07-13`
 - Update Storm's panel foreground and active border colors

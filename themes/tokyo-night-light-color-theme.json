@@ -200,6 +200,8 @@
         "editorGutter.addedBackground": "#71b6bd",
         "editorGutter.deletedBackground": "#a8626a",
 
+        "editorGhostText.foreground": "#73767d",
+
         // "minimapGutter.modifiedBackground": "#425882",
         // "minimapGutter.addedBackground": "#166775",
         // "minimapGutter.deletedBackground": "#944449",
