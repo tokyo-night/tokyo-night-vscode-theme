@@ -1,4 +1,9 @@
 # Release Notes
+## 0.9.2
+`2022-07-22`
+- Update object reference color
+- Update gutter modified color for Storm
+  
 ## 0.9.1
 `2022-07-21`
 - Update editor ghost text color
