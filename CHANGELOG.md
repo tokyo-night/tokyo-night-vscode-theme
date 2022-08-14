@@ -1,4 +1,11 @@
 # Release Notes
+## 0.9.3
+`2022-08-13`
+- Update diff editor colors
+- Update toolbar colors
+- Update notebook colors
+- Update merge editor colors
+  
 ## 0.9.2
 `2022-07-22`
 - Update object reference color
