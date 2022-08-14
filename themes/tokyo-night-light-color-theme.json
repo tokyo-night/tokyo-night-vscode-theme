@@ -365,7 +365,7 @@
         "gitDecoration.renamedResourceForeground": "#166775",
         "gitDecoration.addedResourceForeground": "#166775",
         "gitDecoration.untrackedResourceForeground": "#166775",
-        "gitDecoration.conflictingResourceForeground": "#bb7a61",
+        "gitDecoration.conflictingResourceForeground": "#8f5e15",
         "gitDecoration.stageDeletedResourceForeground": "#914c54",
         "gitDecoration.stageModifiedResourceForeground": "#34548a",
 
@@ -388,6 +388,14 @@
         "merge.currentContentBackground": "#007a7544",
         "merge.incomingHeaderBackground": "#34548aaa",
         "merge.incomingContentBackground": "#34548a44",
+        "mergeEditor.change.background": "#007a7522",
+        "mergeEditor.change.word.background": "#007a7522",
+        "mergeEditor.conflict.unhandledUnfocused.border": "#bb7a6188",
+        "mergeEditor.conflict.unhandledFocused.border": "#bb7a61",
+        "mergeEditor.conflict.handledUnfocused.border": "#007a7525",
+        "mergeEditor.conflict.handledFocused.border": "#007a7525",
+        "mergeEditor.conflict.handled.minimapOverViewRuler": "#007a75",
+        "mergeEditor.conflict.unhandled.minimapOverViewRuler": "#bb7a61",
 
         "gitlens.trailingLineForegroundColor": "#868891",
         "gitlens.gutterUncommittedForegroundColor": "#868891",

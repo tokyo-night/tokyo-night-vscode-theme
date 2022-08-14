@@ -359,7 +359,7 @@
         "gitDecoration.renamedResourceForeground": "#449dab",
         "gitDecoration.addedResourceForeground": "#449dab",
         "gitDecoration.untrackedResourceForeground": "#449dab",
-        "gitDecoration.conflictingResourceForeground": "#bb7a61",
+        "gitDecoration.conflictingResourceForeground": "#e0af68",
         "gitDecoration.stageDeletedResourceForeground": "#914c54",
         "gitDecoration.stageModifiedResourceForeground": "#6183bb",
 
@@ -378,10 +378,18 @@
         "charts.foreground": "#9AA5CE",
         "charts.lines": "#16161e",
 
-        "merge.currentHeaderBackground": "#007a75aa",
+        "merge.currentHeaderBackground": "#41a6b525",
         "merge.currentContentBackground": "#007a7544",
         "merge.incomingHeaderBackground": "#3d59a1aa",
         "merge.incomingContentBackground": "#3d59a144",
+        "mergeEditor.change.background": "#41a6b525",
+        "mergeEditor.change.word.background": "#41a6b540",
+        "mergeEditor.conflict.unhandledUnfocused.border": "#e0af6888",
+        "mergeEditor.conflict.unhandledFocused.border": "#e0af68b0",
+        "mergeEditor.conflict.handledUnfocused.border": "#41a6b525",
+        "mergeEditor.conflict.handledFocused.border": "#41a6b565",
+        "mergeEditor.conflict.handled.minimapOverViewRuler": "#449dab",
+        "mergeEditor.conflict.unhandled.minimapOverViewRuler": "#e0af68",
 
         "gitlens.trailingLineForegroundColor": "#444b6a",
         "gitlens.gutterUncommittedForegroundColor": "#444b6a",
