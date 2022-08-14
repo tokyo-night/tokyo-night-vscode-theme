@@ -237,8 +237,15 @@
         "peekViewResult.fileForeground": "#787c99",
         "peekViewResult.matchHighlightBackground": "#3d59a166",
 
-        "diffEditor.insertedTextBackground": "#41a6b515",
+        "diffEditor.insertedTextBackground": "#41a6b520",
         "diffEditor.removedTextBackground": "#db4b4b22",
+        "diffEditor.insertedLineBackground": "#41a6b520",
+        "diffEditor.removedLineBackground": "#db4b4b22",
+        "diffEditorGutter.insertedLineBackground": "#41a6b525",
+        "diffEditorGutter.removedLineBackground": "#db4b4b22",
+        "diffEditorOverview.insertedForeground": "#41a6b525",
+        "diffEditorOverview.removedForeground": "#db4b4b22",
+        "diffEditor.diagonalFill": "#292e42",
 
         "breadcrumb.background": "#16161e",
         "breadcrumbPicker.background": "#16161e",

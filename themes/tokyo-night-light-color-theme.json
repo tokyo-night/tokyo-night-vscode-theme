@@ -243,6 +243,13 @@
 
         "diffEditor.insertedTextBackground": "#3f919e15",
         "diffEditor.removedTextBackground": "#e8686812",
+        "diffEditor.insertedLineBackground": "#3f919e15",
+        "diffEditor.removedLineBackground": "#e8686812",
+        "diffEditorGutter.insertedLineBackground": "#3f919e15",
+        "diffEditorGutter.removedLineBackground": "#e8686812",
+        "diffEditorOverview.insertedForeground": "#3f919e15",
+        "diffEditorOverview.removedForeground": "#e8686812",
+        "diffEditor.diagonalFill": "#cacbcf",
 
         "breadcrumb.background": "#cbccd1",
         "breadcrumbPicker.background": "#cbccd1",
