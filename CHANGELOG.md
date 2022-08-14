@@ -1,4 +1,9 @@
 # Release Notes
+## 0.9.4
+`2022-08-14`
+- Update secondary button color
+- Update git conflict color
+
 ## 0.9.3
 `2022-08-13`
 - Update diff editor colors
