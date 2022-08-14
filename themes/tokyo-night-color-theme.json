@@ -45,6 +45,9 @@
         "window.inactiveBorder":"#0d0f17",
         "sash.hoverBorder": "#29355a",
 
+        "toolbar.activeBackground": "#202330",
+        "toolbar.hoverBackground": "#202330",
+
         "extensionButton.prominentBackground": "#3d59a1DD",
         "extensionButton.prominentHoverBackground": "#3d59a1AA",
         "extensionButton.prominentForeground": "#ffffff",
