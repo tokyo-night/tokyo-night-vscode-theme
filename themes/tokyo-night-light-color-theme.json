@@ -56,6 +56,7 @@
 
         "button.background": "#34548add",
         "button.hoverBackground": "#34548aAA",
+        "button.secondaryBackground": "#828594",
         "button.foreground": "#ffffff",
         "progressBar.background": "#34548a",
 
