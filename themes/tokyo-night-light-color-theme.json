@@ -369,6 +369,12 @@
         "gitDecoration.stageDeletedResourceForeground": "#914c54",
         "gitDecoration.stageModifiedResourceForeground": "#34548a",
 
+        "notebook.editorBackground": "#d5d6db",
+        "notebook.cellEditorBackground": "#cbccd1",
+        "notebook.cellBorderColor": "#c1c2c7",
+        "notebook.focusedCellBorder": "#828594",
+        "notebook.cellStatusBarItemHoverBackground": "#d5d6db",
+
         "charts.red": "#8c4351",
         "charts.blue": "#34548a",
         "charts.yellow": "#8f5e15",
