@@ -183,6 +183,9 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **Firefox**  
 [Tokyonight_Vim](https://addons.mozilla.org/en-US/firefox/addon/tokyonight_vim/) theme for Firefox, LibreWolf, etc. (by [Jared Reardon](https://addons.mozilla.org/en-US/firefox/user/14600679/))
 
+**Warp**
+[warp-tokyo-night](https://github.com/bart-krakowski/warp-tokyo-night), a theme for [Warp](https://warp.dev/) (by [bart-krakowski](https://github.com/bart-krakowski))
+
 <br><br>
 **Enjoy!**
 
