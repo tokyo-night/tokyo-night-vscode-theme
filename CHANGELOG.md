@@ -1,4 +1,9 @@
 # Release Notes
+## 0.9.5
+`2023-02-13`
+- Update input validation info colors
+- Update custom component tag colors
+  
 ## 0.9.4
 `2022-08-14`
 - Update secondary button color
