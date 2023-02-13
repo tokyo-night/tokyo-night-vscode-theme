@@ -67,9 +67,9 @@
         "inputOption.activeForeground": "#c0caf5",
         "inputOption.activeBackground": "#3d59a144",
 
-        "inputValidation.infoForeground": "#000000",
-        "inputValidation.infoBackground": "#0da0ba",
-        "inputValidation.infoBorder": "#0db9d7",
+        "inputValidation.infoForeground": "#bbc2e0",
+        "inputValidation.infoBackground": "#3d59a15c",
+        "inputValidation.infoBorder": "#3d59a1",
         "inputValidation.warningForeground": "#000000",
         "inputValidation.warningBackground": "#c2985b",
         "inputValidation.warningBorder": "#e0af68",
