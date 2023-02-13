@@ -1,4 +1,8 @@
 # Release Notes
+## 0.9.6
+`2023-02-13`
+- Update README
+  
 ## 0.9.5
 `2023-02-13`
 - Update input validation info colors
