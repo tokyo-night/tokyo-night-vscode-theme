@@ -684,13 +684,14 @@
             }
         },
         {
-            "name": "Tag Component",
+            "name": "Tag - Custom",
             "scope": [
                 "entity.name.tag support.class.component",
+                "meta.tag.custom entity.name.tag",
                  "meta.tag"
             ],
             "settings": {
-                "foreground": "#de5971"
+                "foreground": "#fc91a3"
             }
         },
         {
@@ -698,6 +699,16 @@
             "scope": "punctuation.definition.tag",
             "settings": {
                 "foreground": "#ba3c97"
+            }
+        },
+        {
+            "name": "Tag Punctuation - Custom",
+            "scope": [
+                "meta.tag.custom punctuation.definition.tag",
+                "meta.jsx punctuation.definition.tag"
+            ],
+            "settings": {
+                "foreground": "#e362be"
             }
         },
         {

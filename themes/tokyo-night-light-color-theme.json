@@ -67,8 +67,8 @@
         "inputOption.activeBackground": "#34548a44",
 
         "inputValidation.infoForeground": "#000000",
-        "inputValidation.infoBackground": "#0da0ba",
-        "inputValidation.infoBorder": "#0db9d7",
+        "inputValidation.infoBackground": "#3d59a15c",
+        "inputValidation.infoBorder": "#3d59a1",
         "inputValidation.warningForeground": "#000000",
         "inputValidation.warningBackground": "#c2985b",
         "inputValidation.warningBorder": "#8f5e15",
@@ -704,10 +704,11 @@
             }
         },
         {
-            "name": "Tag Component",
+            "name": "Tag - Custom",
             "scope": [
                 "entity.name.tag support.class.component",
-                 "meta.tag"
+                "meta.tag.custom entity.name.tag",
+                "meta.tag"
             ],
             "settings": {
                 "foreground": "#69323d"
@@ -718,6 +719,16 @@
             "scope": "punctuation.definition.tag",
             "settings": {
                 "foreground": "#b05467"
+            }
+        },
+        {
+            "name": "Tag Punctuation - Custom",
+            "scope": [
+                "meta.tag.custom punctuation.definition.tag",
+                "meta.jsx punctuation.definition.tag"
+            ],
+            "settings": {
+                "foreground": "#69323d"
             }
         },
         {
