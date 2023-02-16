@@ -691,7 +691,7 @@
                  "meta.tag"
             ],
             "settings": {
-                "foreground": "#fc91a3"
+                "foreground": "#de5971"
             }
         },
         {
@@ -699,16 +699,6 @@
             "scope": "punctuation.definition.tag",
             "settings": {
                 "foreground": "#ba3c97"
-            }
-        },
-        {
-            "name": "Tag Punctuation - Custom",
-            "scope": [
-                "meta.tag.custom punctuation.definition.tag",
-                "meta.jsx punctuation.definition.tag"
-            ],
-            "settings": {
-                "foreground": "#e362be"
             }
         },
         {

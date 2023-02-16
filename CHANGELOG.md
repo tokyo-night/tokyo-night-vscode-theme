@@ -1,4 +1,8 @@
 # Release Notes
+## 0.9.7
+`2023-02-16`
+- Revert custom component tag color for dark themes
+  
 ## 0.9.6
 `2023-02-13`
 - Update README
