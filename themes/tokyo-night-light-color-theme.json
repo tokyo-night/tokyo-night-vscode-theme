@@ -220,6 +220,7 @@
 
         "editorPane.background": "#cbccd1",
 
+        "editorWidget.foreground": "#4c505e",
         "editorWidget.background": "#cbccd1",
         "editorWidget.resizeBorder": "#82859433",
 

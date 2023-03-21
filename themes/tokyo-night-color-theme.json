@@ -149,7 +149,7 @@
         "editor.foldBackground": "#1111174a",
         "editorLink.activeForeground": "#acb0d0",
 
-        "editor.selectionBackground": "#515c7e40",
+        "editor.selectionBackground": "#515c7e4d",
         "editor.inactiveSelectionBackground": "#515c7e25",
 
         "editor.findMatchBackground": "#3d59a166",
@@ -216,6 +216,7 @@
 
         "editorPane.background": "#16161e",
 
+        "editorWidget.foreground": "#787c99",
         "editorWidget.background": "#16161e",
         "editorWidget.resizeBorder": "#545c7e33",
 
@@ -333,7 +334,7 @@
 
         "terminal.background": "#16161e",
         "terminal.foreground": "#787c99",
-        "terminal.selectionBackground": "#515c7e30",
+        "terminal.selectionBackground": "#515c7e4d",
         // "terminalCursor.background": "",
         // "terminalCursor.foreground": "",
 

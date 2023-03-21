@@ -31,7 +31,7 @@
     },
     "semanticClass": "tokyo-night-storm",
     "colors": {
-        "foreground": "#7982a9",
+        "foreground": "#787c99",
         "descriptionForeground": "#545c7e",
         "focusBorder": "#545c7e33",
         "errorForeground": "#5a607d",
@@ -149,7 +149,7 @@
         "editor.foldBackground": "#181b294a",
         "editorLink.activeForeground": "#a9b1d6",
 
-        "editor.selectionBackground": "#6f7bb630",
+        "editor.selectionBackground": "#6f7bb640",
         "editor.inactiveSelectionBackground": "#6f7bb615",
 
         "editor.findMatchBackground": "#3d59a166",
@@ -216,6 +216,7 @@
 
         "editorPane.background": "#1f2335",
 
+        "editorWidget.foreground": "#7982a9",
         "editorWidget.background": "#1f2335",
         "editorWidget.resizeBorder": "#545c7e33",
 
@@ -332,7 +333,7 @@
 
         "terminal.background": "#1f2335",
         "terminal.foreground": "#7982a9",
-        "terminal.selectionBackground": "#6f7bb620",
+        "terminal.selectionBackground": "#6f7bb640",
         // "terminalCursor.background": "",
         // "terminalCursor.foreground": "",
 
@@ -615,6 +616,7 @@
                 "punctuation.definition.string",
                 "punctuation.support.type.property-name",
                 "text.html.vue-html meta.tag",
+                "meta.attribute.directive",
                 "punctuation.definition.keyword",
                 "punctuation.terminator.rule",
                 "punctuation.definition.entity",
@@ -688,7 +690,7 @@
             "scope": [
                 "entity.name.tag support.class.component",
                 "meta.tag.custom entity.name.tag",
-                 "meta.tag"
+                "meta.tag"
             ],
             "settings": {
                 "foreground": "#de5971"
