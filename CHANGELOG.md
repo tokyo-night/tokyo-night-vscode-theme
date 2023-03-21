@@ -1,4 +1,10 @@
 # Release Notes
+## 0.9.8
+`2023-03-21`
+- Update Gitlens colors
+- Fix Vue inline chained event modifier color
+- Increase contrast for dark themes' editor and terminal text selections
+
 ## 0.9.7
 `2023-02-16`
 - Revert custom component tag color for dark themes
