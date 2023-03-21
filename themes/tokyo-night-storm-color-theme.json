@@ -1098,7 +1098,7 @@
             }
         },
         {
-            "name": "Vue Template attributes",
+            "name": "Vue (Vetur / deprecated) Template attributes",
             "scope": [
                 "entity.other.attribute-name.id.html",
                 "meta.directive.vue entity.other.attribute-name.html"

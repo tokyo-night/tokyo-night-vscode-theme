@@ -636,6 +636,7 @@
                 "punctuation.definition.string",
                 "punctuation.support.type.property-name",
                 "text.html.vue-html meta.tag",
+                "meta.attribute.directive",
                 "punctuation.definition.keyword",
                 "punctuation.terminator.rule",
                 "punctuation.definition.entity",
@@ -1136,7 +1137,7 @@
             }
         },
         {
-            "name": "Vue Template attributes",
+            "name": "Vue (Vetur / deprecated) Template attributes",
             "scope": [
                 "entity.other.attribute-name.id.html",
                 "meta.directive.vue entity.other.attribute-name.html"
