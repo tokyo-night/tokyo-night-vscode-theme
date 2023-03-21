@@ -391,9 +391,10 @@
         "mergeEditor.conflict.handled.minimapOverViewRuler": "#449dab",
         "mergeEditor.conflict.unhandled.minimapOverViewRuler": "#e0af68",
 
-        "gitlens.trailingLineForegroundColor": "#565f89",
-        "gitlens.gutterUncommittedForegroundColor": "#565f89",
-        "gitlens.gutterForegroundColor": "#565f89",
+        "gitlens.trailingLineForegroundColor": "#7582ba",
+        "gitlens.gutterUncommittedForegroundColor": "#7aa2f7",
+        "gitlens.gutterForegroundColor": "#7982a9",
+        "gitlens.gutterBackgroundColor": "#1f2335",
 
         "notificationCenterHeader.background": "#1b1e2e",
         "notifications.background": "#1b1e2e",
