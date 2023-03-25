@@ -183,6 +183,15 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **Warp**
 [warp-tokyo-night](https://github.com/bart-krakowski/warp-tokyo-night), a theme for [Warp](https://warp.dev/) (by [bart-krakowski](https://github.com/bart-krakowski))
 
+**KiCad** 
+[tokyo-night-kicad-theme](https://github.com/kevin-nel/tokyo-night-kicad-theme), a theme for the [KiCad](https://www.kicad.org/) schematic editor (by [kevin-nel](https://github.com/kevin-nel))
+
+**Tilix/Black Box Terminal**
+[tokyo-night-tilix-black-box-theme](https://github.com/kevin-nel/tokyo-night-tilix-black-box-theme) a theme for tilix colorscheme compatible terminals (by [kevin-nel](https://github.com/kevin-nel))
+
+**gtksourceview**(gnome text editor, gedit, builder etc)
+[tokyo-night-gtksourceview](https://github.com/kevin-nel/tokyo-night-gtksourceview) a theme for gtksourceview applications (by [kevin-nel](https://github.com/kevin-nel))
+
 <br><br>
 **Enjoy!**
 
