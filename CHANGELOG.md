@@ -1,6 +1,8 @@
 # Release Notes
 ## 0.9.9
+`2023-03-28`
 - Fix property color of objects in templates
+- Add KiCad, Tilix/Black Box Terminal, gtksourceview ports (Thanks to [kevin-nel](https://github.com/kevin-nel))
   
 ## 0.9.8
 `2023-03-21`
