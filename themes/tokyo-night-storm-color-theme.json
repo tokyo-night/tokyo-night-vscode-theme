@@ -746,7 +746,8 @@
                 "string.unquoted.graphql",
                 "string.unquoted.alias.graphql",
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
-                "meta.field.declaration.ts variable.object.property"
+                "meta.field.declaration.ts variable.object.property",
+                "meta.block entity.name.label"
             ],
             "settings": {
                 "foreground": "#73daca"

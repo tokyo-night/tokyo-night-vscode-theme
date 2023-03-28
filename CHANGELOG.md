@@ -1,4 +1,7 @@
 # Release Notes
+## 0.9.9
+- Fix property color of objects in templates
+  
 ## 0.9.8
 `2023-03-21`
 - Update Gitlens colors
