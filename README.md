@@ -139,7 +139,7 @@ macOS dark-mode doesn't play well with these two theme mods so I've chosen to da
 **iTerm**   
 `tokyo-night.itermcolors` is supplied in this theme's ~/.vscode/extensions folder or via [github.](https://github.com/enkia/tokyo-night-vscode-theme/blob/master/tokyo-night.itermcolors)
 
-**Sublime Text**   
+**Sublime Text / bat**   
 *Tokyo Night* is a color scheme option in my [Enki Theme.](https://packagecontrol.io/packages/Enki%20Theme)
 
 **Alfred**   
