@@ -1,5 +1,5 @@
 # Release Notes
-## 1.0
+## 1.0.0
 `2023-07-21`
 - Update unrecognized HTML tag color
   
