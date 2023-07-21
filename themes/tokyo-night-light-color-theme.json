@@ -707,10 +707,11 @@
             }
         },
         {
-            "name": "Tag - Custom",
+            "name": "Tag - Custom / Unrecognized",
             "scope": [
                 "entity.name.tag support.class.component",
                 "meta.tag.custom entity.name.tag",
+                "meta.tag.other.unrecognized.html.derivative entity.name.tag",
                 "meta.tag"
             ],
             "settings": {

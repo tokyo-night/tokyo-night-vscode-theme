@@ -1,4 +1,8 @@
 # Release Notes
+## 1.0
+`2023-07-21`
+- Update unrecognized HTML tag color
+  
 ## 0.9.9
 `2023-03-28`
 - Fix property color of objects in templates
