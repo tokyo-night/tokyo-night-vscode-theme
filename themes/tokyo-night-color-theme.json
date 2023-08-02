@@ -434,8 +434,11 @@
             }
         },
         {
-        "name": "Fix YAML block scalar",
-            "scope": "keyword.control.flow.block-scalar.literal",
+        "name": "Fix YAML block scalar, Python Logical",
+            "scope": [
+                "keyword.control.flow.block-scalar.literal",
+                "keyword.control.flow.python"
+            ],
             "settings": {
                 "fontStyle": ""
             }
@@ -493,14 +496,8 @@
                 "punctuation.definition.constant",
                 "constant.language",
                 "constant.numeric",
-                "support.constant"
-                // "constant.language.null",
-                // "constant.language.undefined",
-                // "constant.language.go",
-                // "constant.language.boolean",
-                // "constant.language.json",
-                // "constant.language.infinity",
-                // "constant.language.nan"
+                "support.constant",
+                "constant.other.caps"
             ],
             "settings": {
                 "foreground": "#ff9e64"
@@ -512,7 +509,8 @@
                 "string",
                 "constant.other.symbol",
                 "constant.other.key",
-                "meta.attribute-selector"
+                "meta.attribute-selector",
+                "string constant.character"
             ],
             "settings": {
                 "fontStyle": "",
@@ -726,7 +724,10 @@
                 "support.variable",
                 "string constant.other.placeholder",
                 "variable.parameter.handlebars",
-                "variable.other.object"
+                "variable.other.object",
+                "meta.fstring",
+                "meta.function-call meta.function-call.arguments"
+
             ],
             "settings": {
                 "foreground": "#c0caf5"
