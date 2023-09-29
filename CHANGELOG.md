@@ -1,4 +1,8 @@
 # Release Notes
+## 1.0.2
+`2023-09-28`
+- Update jsx text color
+  
 ## 1.0.1
 `2023-08-02`
 - Update foreground color in Storm theme

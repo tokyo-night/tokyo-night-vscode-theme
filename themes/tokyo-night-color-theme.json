@@ -1338,7 +1338,6 @@
         {
             "name": "Markdown - Plain",
             "scope": [
-                "meta.jsx.children",
                 "meta.embedded.block"
             ],
             "settings": {
@@ -1348,6 +1347,7 @@
         {
             "name": "HTML text",
             "scope": [
+                "meta.jsx.children",
                 "text.html",
                 "text.log"
             ],

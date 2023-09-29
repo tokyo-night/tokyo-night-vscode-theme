@@ -1338,7 +1338,6 @@
         {
             "name": "Markdown - Plain",
             "scope": [
-                "meta.jsx.children",
                 "meta.embedded.block"
             ],
             "settings": {
@@ -1347,7 +1346,10 @@
         },
         {
             "name": "HTML text",
-            "scope": "text.html",
+            "scope": [
+                "meta.jsx.children",
+                "text.html",
+            ],
             "settings": {
                 "foreground": "#9aa5ce"
             }
