@@ -163,8 +163,8 @@
         "editor.selectionHighlightBackground": "#515c7e44",
 
         "editorCursor.foreground": "#c0caf5",
-        "editorIndentGuide.background": "#1e202e",
-        "editorIndentGuide.activeBackground": "#363b54",
+        "editorIndentGuide.background1": "#1e202e",
+        "editorIndentGuide.activeBackground1": "#363b54",
         "editorLineNumber.foreground": "#363b54",
         "editorLineNumber.activeForeground": "#737aa2",
         "editor.lineHighlightBackground": "#1e202e",
@@ -456,10 +456,49 @@
 			}
         },
         {
+            "name": "JSDoc-style keywords",
+            "scope": [
+              "comment keyword.codetag.notation",
+              "comment.block.documentation keyword",
+              "comment.block.documentation storage.type.class"
+            ],
+            "settings": {
+              "foreground": "#7aa2f7"
+            }
+        },
+        {
+            "name": "JSDoc-style types",
+            "scope": [
+              "comment.block.documentation entity.name.type"
+            ],
+            "settings": {
+              "foreground": "#73daca",
+              "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "JSDoc-style type brackets",
+            "scope": [
+              "comment.block.documentation entity.name.type punctuation.definition.bracket"
+            ],
+            "settings": {
+              "foreground": "#7aa2f7"
+            }
+        },
+        {
+            "name": "JSDoc-style comment parameters",
+            "scope": [
+              "comment.block.documentation variable"
+            ],
+            "settings": {
+              "foreground": "#e0af68",
+              "fontStyle": "italic"
+            }
+        },     
+        {
             "name": "Comment Doc",
             "scope": [
                 "keyword.operator.assignment.jsdoc",
-                "comment.block.documentation variable",
                 "comment.block.documentation storage",
                 "comment.block.documentation keyword",
                 "comment.block.documentation support",
@@ -482,7 +521,6 @@
                 "meta.other.type.phpdoc.php support.class",
                 "comment.block.documentation storage.type",
                 "comment.block.documentation punctuation.definition.block.tag",
-                "comment.block.documentation entity.name.type.instance"
             ],
             "settings": {
                 "foreground": "#646e9c"
