@@ -163,8 +163,8 @@
         "editor.selectionHighlightBackground": "#515c7e44",
 
         "editorCursor.foreground": "#c0caf5",
-        "editorIndentGuide.background1": "#1e202e",
-        "editorIndentGuide.activeBackground1": "#363b54",
+        "editorIndentGuide.background": "#1e202e",
+        "editorIndentGuide.activeBackground": "#363b54",
         "editorLineNumber.foreground": "#363b54",
         "editorLineNumber.activeForeground": "#737aa2",
         "editor.lineHighlightBackground": "#1e202e",
@@ -456,18 +456,18 @@
 			}
         },
         {
-            "name": "JSDoc-style keywords",
+            "name": "Comment Keywords",
             "scope": [
               "comment keyword.codetag.notation",
               "comment.block.documentation keyword",
               "comment.block.documentation storage.type.class"
             ],
             "settings": {
-              "foreground": "#7aa2f7"
+              "foreground": "#bb9af7"
             }
         },
         {
-            "name": "JSDoc-style types",
+            "name": "Comment Types",
             "scope": [
               "comment.block.documentation entity.name.type"
             ],
@@ -477,16 +477,16 @@
             }
         },
         {
-            "name": "JSDoc-style type brackets",
+            "name": "Comment Type Brackets",
             "scope": [
               "comment.block.documentation entity.name.type punctuation.definition.bracket"
             ],
             "settings": {
-              "foreground": "#7aa2f7"
+              "foreground": "#bb9af7"
             }
         },
         {
-            "name": "JSDoc-style comment parameters",
+            "name": "Comment Parameters",
             "scope": [
               "comment.block.documentation variable"
             ],
@@ -494,7 +494,7 @@
               "foreground": "#e0af68",
               "fontStyle": "italic"
             }
-        },     
+        }, 
         {
             "name": "Comment Doc",
             "scope": [
