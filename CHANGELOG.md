@@ -1,4 +1,8 @@
 # Release Notes
+## 1.0.3
+`2023-10-03`
+- Fix syntax color issues with Babel Javascript extension
+
 ## 1.0.2
 `2023-09-28`
 - Update jsx text color

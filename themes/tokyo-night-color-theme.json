@@ -634,6 +634,7 @@
         {
             "name": "Import, Export, From, Default",
             "scope": [
+                "keyword.control.module",
                 "keyword.control.import",
                 "keyword.control.export",
                 "keyword.control.from",
@@ -1347,6 +1348,7 @@
         {
             "name": "HTML text",
             "scope": [
+                "meta.tag JSXNested",
                 "meta.jsx.children",
                 "text.html",
                 "text.log"
