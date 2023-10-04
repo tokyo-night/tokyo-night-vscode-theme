@@ -455,49 +455,10 @@
 			}
         },
         {
-            "name": "Comment Keywords",
-            "scope": [
-              "comment keyword.codetag.notation",
-              "comment.block.documentation keyword",
-              "comment.block.documentation storage.type.class"
-            ],
-            "settings": {
-              "foreground": "#bb9af7"
-            }
-        },
-        {
-            "name": "Comment Types",
-            "scope": [
-              "comment.block.documentation entity.name.type"
-            ],
-            "settings": {
-              "foreground": "#73daca",
-              "fontStyle": "italic"
-            }
-        },
-        {
-            "name": "Comment Type Brackets",
-            "scope": [
-              "comment.block.documentation entity.name.type punctuation.definition.bracket"
-            ],
-            "settings": {
-              "foreground": "#bb9af7"
-            }
-        },
-        {
-            "name": "Comment Parameters",
-            "scope": [
-              "comment.block.documentation variable"
-            ],
-            "settings": {
-              "foreground": "#e0af68",
-              "fontStyle": "italic"
-            }
-        }, 
-        {
             "name": "Comment Doc",
             "scope": [
                 "keyword.operator.assignment.jsdoc",
+                "comment.block.documentation variable",
                 "comment.block.documentation storage",
                 "comment.block.documentation keyword",
                 "comment.block.documentation support",
@@ -520,6 +481,7 @@
                 "meta.other.type.phpdoc.php support.class",
                 "comment.block.documentation storage.type",
                 "comment.block.documentation punctuation.definition.block.tag",
+                "comment.block.documentation entity.name.type.instance"
             ],
             "settings": {
                 "foreground": "#7582ba"
@@ -671,6 +633,7 @@
         {
             "name": "Import, Export, From, Default",
             "scope": [
+                "keyword.control.module",
                 "keyword.control.import",
                 "keyword.control.export",
                 "keyword.control.from",
@@ -1385,8 +1348,10 @@
         {
             "name": "HTML text",
             "scope": [
+                "meta.tag JSXNested",
                 "meta.jsx.children",
                 "text.html",
+                "text.log"
             ],
             "settings": {
                 "foreground": "#9aa5ce"
