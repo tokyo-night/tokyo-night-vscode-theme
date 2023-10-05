@@ -1,4 +1,7 @@
 # Release Notes
+## 1.0.4
+- Add JSDoc syntax highlighting settings to README (Thanks to [tigga73](https://github.com/tigga73))
+  
 ## 1.0.3
 `2023-10-03`
 - Fix syntax color issues with Babel Javascript extension
