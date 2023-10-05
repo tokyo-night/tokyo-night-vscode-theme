@@ -39,6 +39,49 @@ Paste this into your [settings.json](https://code.visualstudio.com/docs/getstart
     }
 }
 ```
+## Enabling JSDoc Highlights
+Paste this into your [settings.json](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations) to Enable JSDoc Highlight.
+
+```javascript
+"editor.tokenColorCustomizations": {
+    "[Tokyo Night]": { // or "[Tokyo Night Storm]"
+        "textMateRules": [
+        {
+            "scope": [
+                "comment keyword.codetag.notation",
+                "comment.block.documentation keyword",
+                "comment.block.documentation storage.type.class"
+            ],
+            "settings": {
+                "foreground": "#bb9af7"
+            }
+        },
+        {
+            "scope": ["comment.block.documentation entity.name.type.instance"],
+            "settings": {
+                "foreground": "#73daca",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+            "comment.block.documentation entity.name.type punctuation.definition.bracket"
+            ],
+            "settings": {
+                "foreground": "#bb9af7"
+            }
+        },
+        {
+            "scope": ["comment.block.documentation variable"],
+            "settings": {
+                "foreground": "#e0af68",
+                "fontStyle": "italic"
+            }
+        }
+        ]
+    }
+  }
+```
 ## Customization Settings Examples
 #### Higher Contrast Settings
 The below can by no means officially represent high contrast but they may serve as a starting point. This assumes that the darker Tokyo Night version is being used. 
