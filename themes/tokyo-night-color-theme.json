@@ -634,7 +634,7 @@
         {
             "name": "Import, Export, From, Default",
             "scope": [
-                "keyword.control.module",
+                "keyword.control.module.js",
                 "keyword.control.import",
                 "keyword.control.export",
                 "keyword.control.from",
