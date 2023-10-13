@@ -1,4 +1,9 @@
 # Release Notes
+## 1.0.5
+`2023-10-13`
+- Specify js for module keyword
+- Update terminal green color
+
 ## 1.0.4
 - Add JSDoc syntax highlighting settings to README (Thanks to [tigga73](https://github.com/tigga73))
   
