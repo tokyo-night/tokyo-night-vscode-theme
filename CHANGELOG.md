@@ -1,4 +1,8 @@
 # Release Notes
+## 1.0.6
+2023-11-10
+- Brighten comment colors in dark themes
+  
 ## 1.0.5
 `2023-10-13`
 - Specify js for module keyword

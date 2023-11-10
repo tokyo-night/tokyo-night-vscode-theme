@@ -225,7 +225,7 @@
         "editorSuggestWidget.selectedBackground": "#282e44",
         "editorSuggestWidget.highlightForeground": "#668ac4",
 
-        "editorCodeLens.foreground": "#565f89",
+        "editorCodeLens.foreground": "#5f6996",
         "editorLightBulb.foreground": "#e0af68",
         "editorLightBulbAutoFix.foreground": "#e0af68",
 
@@ -451,7 +451,7 @@
                 "comment.block.documentation punctuation"
 			],
 			"settings": {
-				"foreground": "#565f89"
+				"foreground": "#5f6996"
 			}
         },
         {
@@ -472,7 +472,7 @@
                 "log.date"
             ],
             "settings": {
-                "foreground": "#6a75a8" //"#7982a9"
+                "foreground": "#6f7bb0" //"#7982a9"
             }
         },
         {
@@ -1523,7 +1523,7 @@
             "scope": "meta.separator",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#565f89"
+                "foreground": "#5f6996"
             }
         },
         {
