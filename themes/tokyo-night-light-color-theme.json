@@ -89,6 +89,9 @@
         "activityBarBadge.background": "#34548a",
         "activityBarBadge.foreground": "#fff",
 
+        "activityBarTop.foreground": "#4c505e",
+        "activityBarTop.inactiveForeground": "#828594",
+
         "tree.indentGuidesStroke": "#c1c2c7",
         "sideBar.foreground": "#4c505e",
         "sideBar.background": "#cbccd1",
