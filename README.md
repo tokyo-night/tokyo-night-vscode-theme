@@ -234,6 +234,9 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **gtksourceview** (gnome text editor, gedit, builder, etc)      
 [tokyo-night-gtksourceview](https://github.com/kevin-nel/tokyo-night-gtksourceview) a theme for gtksourceview applications (by [kevin-nel](https://github.com/kevin-nel))
 
+**gitk**
+[gitk-tokyonight](https://github.com/domwalters/gitk-tokyonight) a theme for [gitk](https://git-scm.com/docs/gitk) (by [Dominic Walters](https://github.com/domWalters))
+
 <br><br>
 **Enjoy!**
 
