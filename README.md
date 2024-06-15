@@ -237,6 +237,9 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **gitk**
 [gitk-tokyonight](https://github.com/domwalters/gitk-tokyonight) a theme for [gitk](https://git-scm.com/docs/gitk) (by [Dominic Walters](https://github.com/domWalters))
 
+**git-gui**
+[git-gui-tokyonight](https://github.com/domwalters/git-gui-tokyonight) a theme for [git-gui](https://git-scm.com/docs/git-gui/) (by [Dominic Walters](https://github.com/domWalters))
+
 <br><br>
 **Enjoy!**
 
