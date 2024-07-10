@@ -234,8 +234,15 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **gtksourceview** (gnome text editor, gedit, builder, etc)      
 [tokyo-night-gtksourceview](https://github.com/kevin-nel/tokyo-night-gtksourceview) a theme for gtksourceview applications (by [kevin-nel](https://github.com/kevin-nel))
 
+**gitk**
+[gitk-tokyonight](https://github.com/domwalters/gitk-tokyonight) a theme for [gitk](https://git-scm.com/docs/gitk) (by [Dominic Walters](https://github.com/domWalters))
+
+**git-gui**
+[git-gui-tokyonight](https://github.com/domwalters/git-gui-tokyonight) a theme for [git-gui](https://git-scm.com/docs/git-gui/) (by [Dominic Walters](https://github.com/domWalters))
+
 **DevTools**   
 [Tokyo Night on DevTools](https://github.com/AdelFetner/devToolsExtension) a theme for most browsers' DevTools (by [AdelFetner](https://github.com/AdelFetner))
+
 
 <br><br>
 **Enjoy!**
