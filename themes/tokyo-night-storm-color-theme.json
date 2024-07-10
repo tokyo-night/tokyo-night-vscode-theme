@@ -251,6 +251,10 @@
         "diffEditorOverview.insertedForeground": "#41a6b525",
         "diffEditorOverview.removedForeground": "#db4b4b22",
         "diffEditor.diagonalFill": "#2c324a",
+        "diffEditor.unchangedCodeBackground": "#2f344d66",
+
+        "multiDiffEditor.headerBackground": "#24283b",
+        "multiDiffEditor.border": "#24283b",
 
         "breadcrumb.background": "#1f2335",
         "breadcrumbPicker.background": "#1f2335",
