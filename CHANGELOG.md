@@ -1,4 +1,10 @@
 # Release Notes
+## 1.0.8
+2024-07-10
+- Add colors for top activity bar (Thanks to [xiyaowong](https://github.com/xiyaowong))
+- Add DevTools port (Thanks to [AdelFetner](https://github.com/AdelFetner))
+- Add gitk and git-gui ports (Thanks to [domWalters](https://github.com/domWalters))
+  
 ## 1.0.7
 2024-07-10
 - Update indent guide color
