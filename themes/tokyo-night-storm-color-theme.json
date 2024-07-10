@@ -430,7 +430,11 @@
                 "meta.directive.vue entity.other.attribute-name.html",
                 "tag.decorator.js entity.name.tag.js",
                 "tag.decorator.js punctuation.definition.tag.js",
-                "storage.modifier"
+                "storage.modifier",
+                "string.quoted.docstring.multi",
+                "string.quoted.docstring.multi.python punctuation.definition.string.begin",
+                "string.quoted.docstring.multi.python punctuation.definition.string.end",
+                "string.quoted.docstring.multi.python constant.character.escape"
             ],
             "settings": {
                 "fontStyle": "italic"
@@ -452,7 +456,11 @@
                 "comment",
                 "comment.block.documentation",
 				"punctuation.definition.comment",
-                "comment.block.documentation punctuation"
+                "comment.block.documentation punctuation",
+                "string.quoted.docstring.multi",
+                "string.quoted.docstring.multi.python punctuation.definition.string.begin",
+                "string.quoted.docstring.multi.python punctuation.definition.string.end",
+                "string.quoted.docstring.multi.python constant.character.escape"
 			],
 			"settings": {
 				"foreground": "#5f6996"
@@ -693,7 +701,7 @@
             "scope": [
                 "entity.name.tag support.class.component",
                 "meta.tag.custom entity.name.tag",
-                "meta.tag.other.unrecognized.html.derivative entity.name.tag",
+                "meta.tag.other.unrecognized.html.derivative",
                 "meta.tag"
             ],
             "settings": {
