@@ -1,4 +1,10 @@
 # Release Notes
+## 1.0.7
+2024-07-10
+- Update indent guide color
+- Update multiDiffEditor and diffEditor colors
+- Fix Python triple quoted comments
+
 ## 1.0.6
 2023-11-10
 - Brighten comment colors in dark themes

@@ -240,6 +240,10 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **git-gui**
 [git-gui-tokyonight](https://github.com/domwalters/git-gui-tokyonight) a theme for [git-gui](https://git-scm.com/docs/git-gui/) (by [Dominic Walters](https://github.com/domWalters))
 
+**DevTools**   
+[Tokyo Night on DevTools](https://github.com/AdelFetner/devToolsExtension) a theme for most browsers' DevTools (by [AdelFetner](https://github.com/AdelFetner))
+
+
 <br><br>
 **Enjoy!**
 

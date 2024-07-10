@@ -89,6 +89,9 @@
         "activityBarBadge.background": "#34548a",
         "activityBarBadge.foreground": "#fff",
 
+        "activityBarTop.foreground": "#4c505e",
+        "activityBarTop.inactiveForeground": "#828594",
+
         "tree.indentGuidesStroke": "#c1c2c7",
         "sideBar.foreground": "#4c505e",
         "sideBar.background": "#cbccd1",
@@ -162,8 +165,8 @@
         "editor.selectionHighlightBackground": "#fafbff55",
 
         "editorCursor.foreground": "#4c505e",
-        "editorIndentGuide.background": "#cacbcf",
-        "editorIndentGuide.activeBackground": "#f4f5f8",
+        "editorIndentGuide.background1": "#c5c6c9",
+        "editorIndentGuide.activeBackground1": "#f4f5f8",
         "editorLineNumber.foreground": "#9da0ab",
         "editorLineNumber.activeForeground": "#4c505e",
         "editor.lineHighlightBackground": "#dcdee3",
@@ -255,6 +258,10 @@
         "diffEditorOverview.insertedForeground": "#3f919e15",
         "diffEditorOverview.removedForeground": "#e8686812",
         "diffEditor.diagonalFill": "#cacbcf",
+        "diffEditor.unchangedCodeBackground": "#e7e8ed66",
+
+        "multiDiffEditor.headerBackground": "#d5d6db",
+        "multiDiffEditor.border": "#d5d6db",
 
         "breadcrumb.background": "#cbccd1",
         "breadcrumbPicker.background": "#cbccd1",
@@ -447,7 +454,11 @@
                 "meta.directive.vue entity.other.attribute-name.html",
                 "tag.decorator.js entity.name.tag.js",
                 "tag.decorator.js punctuation.definition.tag.js",
-                "storage.modifier"
+                "storage.modifier",
+                "string.quoted.docstring.multi",
+                "string.quoted.docstring.multi.python punctuation.definition.string.begin",
+                "string.quoted.docstring.multi.python punctuation.definition.string.end",
+                "string.quoted.docstring.multi.python constant.character.escape"
             ],
             "settings": {
                 "fontStyle": "italic"
@@ -469,7 +480,11 @@
                 "comment",
                 "comment.block.documentation",
 				"punctuation.definition.comment",
-                "comment.block.documentation punctuation"
+                "comment.block.documentation punctuation",
+                "string.quoted.docstring.multi",
+                "string.quoted.docstring.multi.python punctuation.definition.string.begin",
+                "string.quoted.docstring.multi.python punctuation.definition.string.end",
+                "string.quoted.docstring.multi.python constant.character.escape"
 			],
 			"settings": {
 				"foreground": "#9699a3"
