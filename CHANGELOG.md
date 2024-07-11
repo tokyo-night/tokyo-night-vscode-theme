@@ -1,4 +1,8 @@
 # Release Notes
+## 1.0.9
+2024-07-11
+- Redesign Tokyo Night Light theme to improve contrast
+  
 ## 1.0.8
 2024-07-10
 - Add colors for top activity bar (Thanks to [xiyaowong](https://github.com/xiyaowong))
