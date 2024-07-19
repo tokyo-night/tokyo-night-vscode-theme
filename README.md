@@ -251,4 +251,4 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 <br><br>
 **Enjoy!**
 
-###### Tokyo Tower icon used in theme icon made by Smashicons from www.flaticon.com. Color palettes in this README use www.placeholder.com.
+###### Tokyo Tower icon used in theme icon made by Smashicons from www.flaticon.com. Color palettes in this README use [place-hold.it](https://place-hold.it).
