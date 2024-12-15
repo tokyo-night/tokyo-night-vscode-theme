@@ -188,6 +188,9 @@ macOS dark-mode doesn't play well with these two theme mods so I've chosen to da
 **Sublime Text / bat**   
 *Tokyo Night* is a color scheme option in my [Enki Theme.](https://packagecontrol.io/packages/Enki%20Theme)
 
+**Xcode**   
+*Tokyo Night* theme for Xcode [mesqueeb/TokyoNightXcodeTheme](https://github.com/mesqueeb/TokyoNightXcodeTheme)
+
 **Alfred**   
 Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/puSaeqbft2/)
 
