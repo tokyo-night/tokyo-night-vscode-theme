@@ -6,6 +6,7 @@
 - Update Editor widget and lists foreground color for slightly better contrast in Storm theme
 - Misc updates to blade syntax colors
 - Fix inconsistent hex colors in README palette (Thanks to [theozebua](https://github.com/theozebua))
+- Xcode theme added to README (Thanks to [mesqueeb](https://github.com/mesqueeb))
 
 ## 1.0.9
 2024-07-11
