@@ -1,5 +1,5 @@
 # Release Notes
-## 1.10
+## 1.1.0
 2025-02-15
 - Fix terminal ansi bright green color in Tokyo Night theme
 - Change editor pane background to reflect same color as editor (Zen Mode Fix)
