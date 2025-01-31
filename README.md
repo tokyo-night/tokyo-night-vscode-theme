@@ -169,17 +169,17 @@ macOS dark-mode doesn't play well with these two theme mods so I've chosen to da
 | ![#965027](https://place-hold.it/15/965027/965027?text=+) `#965027` | Number and Boolean constants, Language support constants |
 | ![#8f5e15](https://place-hold.it/15/8f5e15/8f5e15?text=+) `#8f5e15` | Function parameters, Regex character sets, Terminal Yellow |
 | ![#634f30](https://place-hold.it/15/634f30/634f30?text=+) `#634f30` | Parameters inside functions (semantic highlighting only) |
-| ![#485e30](https://place-hold.it/15/385f0d/385f0d?text=+) `#385f0d` | Strings, CSS class names |
+| ![#385f0d](https://place-hold.it/15/385f0d/385f0d?text=+) `#385f0d` | Strings, CSS class names |
 | ![#33635c](https://place-hold.it/15/33635c/33635c?text=+) `#33635c` | Object literal keys, Markdown links, Regex literal strings, Terminal Green |
-| ![#166775](https://place-hold.it/15/006c86/006c86?text=+) `#006c86` | Language support functions, CSS HTML elements |
+| ![#006c86](https://place-hold.it/15/006c86/006c86?text=+) `#006c86` | Language support functions, CSS HTML elements |
 | ![#0f4b6e](https://place-hold.it/15/0f4b6e/0f4b6e?text=+) `#0f4b6e` | Object properties, Regex quantifiers and flags, Terminal Cyan, Markdown code, Import/export keywords |
-| ![#34548a](https://place-hold.it/15/2959aa/2959aa?text=+) `#2959aa` | Function names, CSS property names, Markdown Headings, Terminal Blue |
-| ![#5a4a78](https://place-hold.it/15/5a3e8e/5a3e8e?text=+) `#5a3e8e` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
+| ![#2959aa](https://place-hold.it/15/2959aa/2959aa?text=+) `#2959aa` | Function names, CSS property names, Markdown Headings, Terminal Blue |
+| ![#5a3e8e](https://place-hold.it/15/5a3e8e/5a3e8e?text=+) `#5a3e8e` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
 | ![#343b58](https://place-hold.it/15/343b58/343b58?text=+) `#343b58` | Editor Foreground, Variables, Class names, Terminal White |
-| ![#565a6e](https://place-hold.it/15/40434f/40434f?text=+) `#40434f` | Markdown Text, HTML Text |
-| ![#0f0f14](https://place-hold.it/15/343B58/343B58?text=+) `#343B58` | Terminal Black |
-| ![#9699a3](https://place-hold.it/15/6c6e75/6c6e75?text=+) `#6c6e75` | Comments |
-| ![#d5d6db](https://place-hold.it/15/e6e7ed/e6e7ed?text=+) `#e6e7ed` | Editor Background |
+| ![#40434f](https://place-hold.it/15/40434f/40434f?text=+) `#40434f` | Markdown Text, HTML Text |
+| ![#343B58](https://place-hold.it/15/343B58/343B58?text=+) `#343B58` | Terminal Black |
+| ![#6c6e75](https://place-hold.it/15/6c6e75/6c6e75?text=+) `#6c6e75` | Comments |
+| ![#e6e7ed](https://place-hold.it/15/e6e7ed/e6e7ed?text=+) `#e6e7ed` | Editor Background |
 
 ## Other Ports
 **iTerm**   
