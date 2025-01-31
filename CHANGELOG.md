@@ -1,4 +1,12 @@
 # Release Notes
+## 1.10
+2025-02-15
+- Fix terminal ansi bright green color in Tokyo Night theme
+- Change editor pane background to reflect same color as editor (Zen Mode Fix)
+- Update Editor widget and lists foreground color for slightly better contrast in Storm theme
+- Misc updates to blade syntax colors
+- Fix inconsistent hex colors in README palette (Thanks to [theozebua](https://github.com/theozebua))
+
 ## 1.0.9
 2024-07-11
 - Redesign Tokyo Night Light theme to improve contrast
