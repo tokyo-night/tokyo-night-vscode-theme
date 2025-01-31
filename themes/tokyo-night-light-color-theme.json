@@ -613,14 +613,15 @@
             }
         },
         {
-            "name": "Twig, Smarty, Blade, Handlebars keyword",
+            "name": "Blade, Twig, Smarty Handlebars keywords",
             "scope": [
                 "keyword.control.smarty",
                 "keyword.control.twig",
                 "support.constant.handlebars keyword.control",
                 "keyword.operator.comparison.twig",
                 "keyword.blade",
-                "entity.name.function.blade"
+                "entity.name.function.blade",
+                "meta.tag.blade keyword.other.type.php"
             ],
             "settings": {
                 "foreground": "#006c86"
@@ -663,7 +664,9 @@
                 "entity.name.operator",
                 "meta.property-list punctuation.separator.key-value",
                 "meta.at-rule.mixin punctuation.separator.key-value",
-                "meta.at-rule.function variable.parameter.url"
+                "meta.at-rule.function variable.parameter.url",
+                "meta.embedded.inline.phpx punctuation.definition.tag.begin.html",
+                "meta.embedded.inline.phpx punctuation.definition.tag.end.html"
             ],
             "settings": {
                 "foreground": "#006C86"
@@ -737,7 +740,10 @@
         },
         {
             "name": "Tag Punctuation",
-            "scope": "punctuation.definition.tag",
+            "scope": [
+                "punctuation.definition.tag",
+                "text.html.php meta.embedded.block.html meta.tag.metadata.script.end.html punctuation.definition.tag.begin.html text.html.basic"
+            ],
             "settings": {
                 "foreground": "#b05467"
             }
@@ -775,7 +781,8 @@
                 "variable.parameter.handlebars",
                 "variable.other.object",
                 "meta.fstring",
-                "meta.function-call meta.function-call.arguments"
+                "meta.function-call meta.function-call.arguments",
+                "meta.embedded.inline.phpx constant.other.php"
             ],
             "settings": {
                 "foreground": "#343b58"
