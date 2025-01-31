@@ -169,7 +169,7 @@
         "editorIndentGuide.background1": "#2d324a",
         "editorIndentGuide.activeBackground1": "#3b4261",
         "editorLineNumber.foreground": "#3b4261",
-        "editorLineNumber.activeForeground": "#737aa2",
+        "editorLineNumber.activeForeground": "#8089b3",
         "editor.lineHighlightBackground": "#292e42",
         "editorWhitespace.foreground": "#3b4261",
 
@@ -217,7 +217,7 @@
         "editorGroupHeader.noTabsBackground": "#1f2335",
         "editorGroupHeader.border": "#1b1e2e",
 
-        "editorPane.background": "#1f2335",
+        "editorPane.background": "#24283b",
 
         "editorWidget.foreground": "#7982a9",
         "editorWidget.background": "#1f2335",
