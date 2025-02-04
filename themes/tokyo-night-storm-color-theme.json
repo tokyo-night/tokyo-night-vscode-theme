@@ -424,7 +424,19 @@
         "menu.selectionForeground":"#c0caf5",
         "menu.selectionBackground":"#2f3549",
         "menu.separatorBackground":"#1b1e2e",
-        "menu.border":"#1b1e2e"
+        "menu.border":"#1b1e2e",
+
+        "chat.requestBorder": "#282e44",
+        "chat.slashCommandBackground": "#1b1e2e",
+        "chat.slashCommandForeground": "#7aa2f7",
+        "chat.avatarBackground": "#3d59a1",
+        "chat.avatarForeground": "#a9b1d6",
+
+        "inlineChat.background": "#1b1e2e",
+        "inlineChat.foreground": "#a9b1d6",
+        "inlineChatDiff.inserted": "#41a6b540",
+        "inlineChatDiff.removed": "#db4b4b42",
+
     },
     "tokenColors": [
         {
