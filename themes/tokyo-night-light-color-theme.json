@@ -236,6 +236,8 @@
         // "editorLightBulb.foreground": "#ffe957",
         // "editorLightBulbAutoFix.foreground": "#ffe957",
 
+        "editorInlayHint.foreground": "#606269",
+
         "peekView.border": "#c1c2c7",
         "peekViewEditor.background": "#dcdee3",
         "peekViewEditor.matchHighlightBackground": "#2959aa22",
