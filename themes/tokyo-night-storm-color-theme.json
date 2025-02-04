@@ -223,6 +223,7 @@
 
         "editorWidget.foreground": "#8089b3",
         "editorWidget.background": "#1f2335",
+        "editorWidget.border": "#1b1e2e",
         "editorWidget.resizeBorder": "#545c7e33",
 
         "editorSuggestWidget.background": "#1f2335",
