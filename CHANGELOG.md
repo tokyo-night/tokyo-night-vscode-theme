@@ -1,6 +1,13 @@
 # Release Notes
+## 1.1.1
+2025-02-04
+- Add disabled foreground color
+- Add editor widget border color 
+- Add editor inlay hints color
+- Add some chat colors
+
 ## 1.1.0
-2025-02-15
+2025-01-31
 - Fix terminal ansi bright green color in Tokyo Night theme
 - Change editor pane background to reflect same color as editor (Zen Mode Fix)
 - Update Editor widget and lists foreground color for slightly better contrast in Storm theme
