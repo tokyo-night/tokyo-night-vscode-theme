@@ -33,6 +33,7 @@
     "colors": {
         "foreground": "#363c4d",
         "descriptionForeground": "#707280",
+        "disabledForeground": "#707280",
         "focusBorder": "#70728033",
         "errorForeground": "#5a607d",
         "widget.shadow": "#ffffff00",
