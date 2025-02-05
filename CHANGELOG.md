@@ -1,4 +1,8 @@
 # Release Notes
+## 1.1.2
+2025-02-05
+- Add source control graph colors
+  
 ## 1.1.1
 2025-02-04
 - Add disabled foreground color
