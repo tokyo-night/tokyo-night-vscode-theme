@@ -278,7 +278,7 @@
         "tab.hoverBackground": "#dadce3",
         "tab.activeBorder": "#2959aa",
         // "tab.selectedBorderTop": "#e6e7ed",
-        "tab.selectedBackground": "#d6d8df",
+        "tab.selectedBackground": "#e6e7ed",
         "tab.inactiveForeground": "#363c4d",
         "tab.border": "#c1c2c7",
         "tab.unfocusedActiveForeground": "#363c4d",

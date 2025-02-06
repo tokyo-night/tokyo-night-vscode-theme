@@ -283,6 +283,7 @@
         "tab.inactiveModifiedBorder": "#1f202e",
         "tab.unfocusedActiveBorder": "#1f202e",
         "tab.lastPinnedBorder": "#222333",
+        "tab.selectedBackground": "#1a1b26",
 
         "panel.background": "#16161e",
         "panel.border": "#101014",
