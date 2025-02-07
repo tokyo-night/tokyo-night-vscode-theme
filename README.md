@@ -185,71 +185,73 @@ macOS dark-mode doesn't play well with these two theme mods so I've chosen to da
 **iTerm**   
 `tokyo-night.itermcolors` is supplied in this theme's ~/.vscode/extensions folder or via [github.](https://github.com/enkia/tokyo-night-vscode-theme/blob/master/tokyo-night.itermcolors)
 
-**Sublime Text / bat**   
-*Tokyo Night* is a color scheme option in my [Enki Theme.](https://packagecontrol.io/packages/Enki%20Theme)
-
-**Xcode**   
-*Tokyo Night* theme for Xcode [mesqueeb/TokyoNightXcodeTheme](https://github.com/mesqueeb/TokyoNightXcodeTheme)
+**Alacritty Terminal**    
+[Tokyo Night Alacritty Theme](https://github.com/zatchheems/tokyo-night-alacritty-theme), a color scheme for [Alacritty Terminal Emulator](https://github.com/alacritty/alacritty) (by [mhyfritz](https://github.com/mhyfritz))
 
 **Alfred**   
 Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/puSaeqbft2/)
+
+**DevTools**   
+[Tokyo Night on DevTools](https://github.com/AdelFetner/devToolsExtension) a theme for most browsers' DevTools (by [AdelFetner](https://github.com/AdelFetner))
 
 **DuckDuckGo**   
 [DuckduckGo theme preferences](https://duckduckgo.com/?kae=d&ks=m&kak=-1&kax=-1&kaq=-1&kap=-1&kao=-1&kau=-1&k5=1&k7=1a1b26&kj=16161e&kx=1abc9c&k21=16161E&k18=-1&ka=e&kaa=BB9AF7&k9=C0CAF5&k8=6183BB&kt=e)
 (by [Grafikart](https://github.com/Grafikart))
 
+**Firefox**  
+[Tokyonight_Vim](https://addons.mozilla.org/en-US/firefox/addon/tokyonight_vim/) theme for Firefox, LibreWolf, etc. (by [Jared Reardon](https://addons.mozilla.org/en-US/firefox/user/14600679/))
+
+**git-gui**
+[git-gui-tokyonight](https://github.com/domwalters/git-gui-tokyonight) a theme for [git-gui](https://git-scm.com/docs/git-gui/) (by [Dominic Walters](https://github.com/domWalters))
+
+**gitk**
+[gitk-tokyonight](https://github.com/domwalters/gitk-tokyonight) a theme for [gitk](https://git-scm.com/docs/gitk) (by [Dominic Walters](https://github.com/domWalters))
+
+**gtksourceview** (gnome text editor, gedit, builder, etc)      
+[tokyo-night-gtksourceview](https://github.com/kevin-nel/tokyo-night-gtksourceview) a theme for gtksourceview applications (by [kevin-nel](https://github.com/kevin-nel))
+
+**Hyper terminal**    
+[hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night), a theme for [Hyper](https://hyper.is/) (by [fitrh](https://github.com/fitrh))
+
+**Insomnia**  
+[Tokyo Night](https://github.com/pokedotdev/tokyo-night-insomnia) theme for [Insomnia](https://insomnia.rest/) (by [pokedotdev](https://github.com/pokedotdev))
+
 **JetBrains IDE**  
 - [Tokyo Night Color Scheme](https://plugins.jetbrains.com/plugin/15662-tokyo-night-color-scheme) works best with material theme plugin and [this theme](https://github.com/Grafikart/tokyo-night-jetbrains-theme/blob/main/tokyonight.xml) (by [Grafikart](https://github.com/Grafikart))
 - [TokyoNight Editor & UI Theme](https://plugins.jetbrains.com/plugin/18820-tokyo-night-theme) compatible with material theme, supports 2 dark variants, planned support for day theme.(by [alexadhy](https://github.com/alexadhy))
+
+**KiCad**    
+[tokyo-night-kicad-theme](https://github.com/kevin-nel/tokyo-night-kicad-theme), a theme for the [KiCad](https://www.kicad.org/) schematic editor (by [kevin-nel](https://github.com/kevin-nel))
+
+**Kitty Terminal**       
+[Tokyo Night](https://github.com/davidmathers/tokyo-night-kitty-theme) color scheme for [kitty](https://sw.kovidgoyal.net/kitty/)
+(by [davidmathers](https://github.com/davidmathers))
+
+**Sublime Text / bat**   
+*Tokyo Night* is a color scheme option in my [Enki Theme.](https://packagecontrol.io/packages/Enki%20Theme)
+
+**Termux**
+[fywmjj/tokyo-night-termux-theme](https://github.com/fywmjj/tokyo-night-termux-theme) - A Tokyo Night color scheme for [Termux](https://termux.dev/), featuring the original Night, Night Light and Storm versions. Works perfectly on the [original Termux](https://github.com/termux/termux-app) and its optimized version [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux).
+
+**Tilix/Black Box Terminal**   
+[tokyo-night-tilix-black-box-theme](https://github.com/kevin-nel/tokyo-night-tilix-black-box-theme) a theme for tilix colorscheme compatible terminals (by [kevin-nel](https://github.com/kevin-nel))
 
 **VIM/Neovim**    
 - [tokyonight.vim](https://github.com/ghifarit53/tokyonight-vim), a [VIM](https://www.vim.org/)/[Neovim](https://neovim.io/) color scheme. This theme also has support for [lightline](https://github.com/itchyny/lightline.vim) as well as [airline](https://github.com/vim-airline/vim-airline) (by [ghifarit53](https://github.com/ghifarit53/))
 
 - [tokyonight.nvim](https://github.com/folke/tokyonight.nvim), a [Neovim](https://neovim.io/) color scheme. This theme also has support for many Vim plugins and [other programs](https://github.com/folke/tokyonight.nvim/tree/main/extras) such as Alacritty, Fish and Kitty. (by [folke](https://github.com/folke))
 
-**Kitty Terminal**       
-[Tokyo Night](https://github.com/davidmathers/tokyo-night-kitty-theme) color scheme for [kitty](https://sw.kovidgoyal.net/kitty/)
-(by [davidmathers](https://github.com/davidmathers))
-
-**Alacritty Terminal**    
-[Tokyo Night Alacritty Theme](https://github.com/zatchheems/tokyo-night-alacritty-theme), a color scheme for [Alacritty Terminal Emulator](https://github.com/alacritty/alacritty) (by [mhyfritz](https://github.com/mhyfritz))
-
-**Hyper terminal**    
-[hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night), a theme for [Hyper](https://hyper.is/) (by [fitrh](https://github.com/fitrh))
-
-**Windows Terminal**   
-[tokyonight-windows-terminal](https://github.com/g-e-o-m-e-t-r-i-c/tokyonight-windows-terminal), a theme for [Windows Terminal](https://github.com/microsoft/terminal) (by [g-e-o-m-e-t-r-i-c](https://github.com/g-e-o-m-e-t-r-i-c))
-
-**Insomnia**  
-[Tokyo Night](https://github.com/pokedotdev/tokyo-night-insomnia) theme for [Insomnia](https://insomnia.rest/) (by [pokedotdev](https://github.com/pokedotdev))
-
 **Visual Studio 2022**  
 [tokyo-night-visual-studio-theme](https://github.com/m1chaelbarry/tokyo-night-visual-studio-theme) for Visual Studio 2022 (by [m1chaelbarry](https://github.com/m1chaelbarry))
-
-**Firefox**  
-[Tokyonight_Vim](https://addons.mozilla.org/en-US/firefox/addon/tokyonight_vim/) theme for Firefox, LibreWolf, etc. (by [Jared Reardon](https://addons.mozilla.org/en-US/firefox/user/14600679/))
 
 **Warp**   
 [warp-tokyo-night](https://github.com/bart-krakowski/warp-tokyo-night), a theme for [Warp](https://warp.dev/) (by [bart-krakowski](https://github.com/bart-krakowski))
 
-**KiCad**    
-[tokyo-night-kicad-theme](https://github.com/kevin-nel/tokyo-night-kicad-theme), a theme for the [KiCad](https://www.kicad.org/) schematic editor (by [kevin-nel](https://github.com/kevin-nel))
+**Windows Terminal**   
+[tokyonight-windows-terminal](https://github.com/g-e-o-m-e-t-r-i-c/tokyonight-windows-terminal), a theme for [Windows Terminal](https://github.com/microsoft/terminal) (by [g-e-o-m-e-t-r-i-c](https://github.com/g-e-o-m-e-t-r-i-c))
 
-**Tilix/Black Box Terminal**   
-[tokyo-night-tilix-black-box-theme](https://github.com/kevin-nel/tokyo-night-tilix-black-box-theme) a theme for tilix colorscheme compatible terminals (by [kevin-nel](https://github.com/kevin-nel))
-
-**gtksourceview** (gnome text editor, gedit, builder, etc)      
-[tokyo-night-gtksourceview](https://github.com/kevin-nel/tokyo-night-gtksourceview) a theme for gtksourceview applications (by [kevin-nel](https://github.com/kevin-nel))
-
-**gitk**
-[gitk-tokyonight](https://github.com/domwalters/gitk-tokyonight) a theme for [gitk](https://git-scm.com/docs/gitk) (by [Dominic Walters](https://github.com/domWalters))
-
-**git-gui**
-[git-gui-tokyonight](https://github.com/domwalters/git-gui-tokyonight) a theme for [git-gui](https://git-scm.com/docs/git-gui/) (by [Dominic Walters](https://github.com/domWalters))
-
-**DevTools**   
-[Tokyo Night on DevTools](https://github.com/AdelFetner/devToolsExtension) a theme for most browsers' DevTools (by [AdelFetner](https://github.com/AdelFetner))
-
+**Xcode**   
+*Tokyo Night* theme for Xcode [mesqueeb/TokyoNightXcodeTheme](https://github.com/mesqueeb/TokyoNightXcodeTheme)
 
 <br><br>
 **Enjoy!**
