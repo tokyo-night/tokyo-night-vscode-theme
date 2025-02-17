@@ -18,7 +18,7 @@ Tokyo Night Light
 Font used in the screenshots is [JetBrains Mono.](https://www.jetbrains.com/lp/mono/)
 
 ## Disabling Italics
-Paste this into your [settings.json](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations) to disable italics.
+Paste this into your [settings.json](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations) to disable italics for comments, storage, keyword Flow, vue attributes, and decorators.
 
 ```javascript
 "editor.tokenColorCustomizations": {
@@ -33,7 +33,11 @@ Paste this into your [settings.json](https://code.visualstudio.com/docs/getstart
                 "meta.directive.vue entity.other.attribute-name.html",
                 "tag.decorator.js entity.name.tag.js",
                 "tag.decorator.js punctuation.definition.tag.js",
-                "storage.modifier"
+                "storage.modifier",
+                "string.quoted.docstring.multi",
+                "string.quoted.docstring.multi.python punctuation.definition.string.begin",
+                "string.quoted.docstring.multi.python punctuation.definition.string.end",
+                "string.quoted.docstring.multi.python constant.character.escape"
             ],
             "settings": {
                 "fontStyle": ""
